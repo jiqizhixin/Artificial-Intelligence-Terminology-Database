@@ -16,6 +16,6 @@ Association analysis|关联分析|
 Attention mechanism|注意力机制|
 Autoencoder|自编码器|[通过PyTorch实现对抗自编码器](https://www.jiqizhixin.com/articles/fa8b9e4a-6c75-403c-880c-9e695d0280c8)
 Automatic speech recognition/ASR|自动语音识别
-Automatic summarization	自动摘要	
+Automatic summarization|自动摘要	
 Average gradient|平均梯度	
 Average-Pooling|平均池化	
