@@ -5,8 +5,13 @@
 ---|---|---
 Backpropagation/BP|反向传播|[[1]](https://www.jiqizhixin.com/articles/2533c5a5-af09-41c0-830a-7e075ad8ccd7)
 Backpropagation Through Time|通过时间的反向传播|[1]
-Backpropagation/BP|反向传播|[1]
+Base learner|基学习器|[1]
+Base learning algorithm|基学习算法|[1]
 Batch Normalization/BN|批量归一化|[1]
+Bayes decision rule|贝叶斯判定准则|[1]
+Bayes Model Averaging／BMA|贝叶斯模型平均|[1]
+Bayes optimal classifier|贝叶斯最优分类器|[1]
+Bayesian decision theory|贝叶斯决策论|[1]
 Bayesian network|贝叶斯网络|[1]
 Between-class scatter matrix|类间散度矩阵|[1]
 Bias|偏置 / 偏差|[1]
