@@ -9,6 +9,7 @@ Adaptive Resonance Theory/ART|自适应谐振理论|[1]
 Addictive model|加性学习|[1]
 Adversarial Networks|对抗网络|[1]
 Affine Layer|仿射层|[1]
+Affinity matrix|亲和矩阵|[1]
 Agent|智能体|[[1]](https://www.jiqizhixin.com/articles/83490ca4-3bb9-40fa-9306-366902430ade) / [[2]](https://www.jiqizhixin.com/articles/c3cfa8fe-3f1e-49bc-ae5e-0ea0720c0dd3) / [[3]](https://www.jiqizhixin.com/articles/3b85b031-aabe-4814-9da2-708da822c15e) / [[4]](https://www.jiqizhixin.com/articles/e8ebba0d-0c7e-4a95-9428-b17513e950ef)
 Algorithm|算法|[[1]](https://www.jiqizhixin.com/articles/99633338-62ff-460e-b313-0ab7a38d6592) / [[2]](https://www.jiqizhixin.com/articles/90a896ca-c170-4cb9-b388-e27972d9888e) / [[3]](https://www.jiqizhixin.com/articles/66d2b476-1f96-452a-8bfc-1fbc2104e935)
 Alpha-beta pruning|α-β剪枝|[1]
