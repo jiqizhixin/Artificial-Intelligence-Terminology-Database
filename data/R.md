@@ -3,7 +3,6 @@
 
 英文/缩写|汉语|来源&扩展
 ---|---|---
-Radial Basis Function||	径向基函数|[1]
 Radial Basis Function／RBF|	径向基函数|[1]
 Random Forest Algorithm|	随机森林算法|[1]
 Random walk	|随机漫步 |[1]
