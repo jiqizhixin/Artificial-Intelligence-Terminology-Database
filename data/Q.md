@@ -6,3 +6,4 @@
 Quantized Neural Network/QNN|量子化神经网络|[1]
 Quantum computer|量子计算机|[1]
 Quantum Computing|量子计算|[1]
+Quasi Newton method|拟牛顿法|[1]
