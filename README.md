@@ -3,7 +3,7 @@ The English-Chinese paired terminologies in Artificial Intelligence Domain
 
 我们将机器之心在编译技术文章和论文过程中所遇到的专业术语记录下来，希望有助于大家查阅和翻译。同时也希望大家能积极指出我们编译的不当之处，共同推进知识更高效和客观地传播（第二版）。
 ##
-### [所有词汇展示页](https://jiqizhixin.github.io/AI-Terminology-page/)
+### [词汇展示页](https://jiqizhixin.github.io/AI-Terminology-page/)
 ## 
 索引|V1| V2| V3| V4| V5| V6| V7| V8| V9|V10
  ---|---|---|---|---|---|---|---|---|---|---
