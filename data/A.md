@@ -5,7 +5,7 @@
 ---|---|---
 Absolute value rectiﬁcation|绝对值整流|[1]
 Activation Function|激活函数|[[1]](https://www.jiqizhixin.com/articles/75832471-bf67-4450-9173-ada016694ee8) / [[2]](https://www.jiqizhixin.com/articles/343a4328-2915-4b20-a770-9e8bc74dfc1a)
-Accumulated error backpropagation|累积误差逆传播|[1]
+Accumulated error backpropagation|累积误差反向传播|[1]
 Acquisition funtion|激活函数|[1]
 Actor-critic method|行为-评判方法|[1]
 Adaptive bitrate (ABR) algorithm|自适应比特率算法|[1]
