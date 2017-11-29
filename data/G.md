@@ -4,6 +4,7 @@
 英文/缩写|汉语|来源&扩展
 ---|---|---
 Gain ratio|增益率|[1]
+Game payoff|博弈效用|[1]
 Game theory	|博弈论|[1]
 Gated recurrent net/GRN|门控循环网络|[1]
 Gaussian kernel function|高斯核函数|[1]
