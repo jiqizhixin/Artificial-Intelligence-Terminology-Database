@@ -6,6 +6,7 @@
 ICML|	国际机器学习会议|[1]
 Identity matrix|单位矩阵|[1]
 Image restoration|图像复原|[1]
+Imperfect Information|不完美信息|[1]
 Improved iterative scaling/IIS|改进的迭代尺度法|[1]
 Incremental learning	|增量学习|[1]
 Independent and identically distributed/i.i.d.|	独立同分布|[1]
