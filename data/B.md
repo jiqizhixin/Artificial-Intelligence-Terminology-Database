@@ -5,6 +5,7 @@
 ---|---|---
 Backpropagation/BP|反向传播|[[1]](https://www.jiqizhixin.com/articles/2533c5a5-af09-41c0-830a-7e075ad8ccd7)
 Backpropagation Through Time|通过时间的反向传播|[1]
+Backward induction|逆向归纳|[1]
 Bag of words/BoW|词袋|[1]
 Base learner|基学习器|[1]
 Base learning algorithm|基学习算法|[1]
