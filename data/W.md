@@ -5,6 +5,7 @@
 ---|---|---
 Weak learner|弱学习器|[1]
 Weight|权重|[1]
+Weight decaying|权值衰减|[1]
 Weight sharing|	权共享|[1]
 Weighted voting|	加权投票法|[1]
 Wasserstein GAN/WGAN|	Wasserstein生成对抗网络|[1]
