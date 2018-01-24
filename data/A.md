@@ -11,8 +11,8 @@ Actor-critic method|行为-评判方法|[[1]](https://www.jiqizhixin.com/article
 Adaptive bitrate (ABR) algorithm|自适应比特率算法|[1]
 Adaptive Resonance Theory/ART|自适应谐振理论|[1]
 Addictive model|加性模型|[1]
-Adversarial example|对抗样本|[1]
-Adversarial Networks|对抗网络|[1]
+Adversarial example|对抗样本|[[1]](https://www.jiqizhixin.com/articles/2018-01-06-6)
+Adversarial Networks|对抗网络|[[1]](https://www.jiqizhixin.com/articles/2018-01-08-5)
 Affine Layer|仿射层|[1]
 Affinity matrix|亲和矩阵|[1]
 Agent|智能体|[[1]](https://www.jiqizhixin.com/articles/83490ca4-3bb9-40fa-9306-366902430ade) / [[2]](https://www.jiqizhixin.com/articles/c3cfa8fe-3f1e-49bc-ae5e-0ea0720c0dd3) / [[3]](https://www.jiqizhixin.com/articles/3b85b031-aabe-4814-9da2-708da822c15e) / [[4]](https://www.jiqizhixin.com/articles/e8ebba0d-0c7e-4a95-9428-b17513e950ef)
