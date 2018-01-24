@@ -28,7 +28,7 @@ Approximate inference|近似推断|[1]
 Approximation|近似|[1]
 Architecture|架构|[[1]](https://www.jiqizhixin.com/articles/2018-01-12)
 Area Under ROC Curve/AUC|Roc 曲线下面积|[1]
-Artificial General Intelligence/AGI|通用人工智能|[1]
+Artificial General Intelligence/AGI|通用人工智能|[[1]](https://www.jiqizhixin.com/articles/2018-01-06-2)
 Artificial Intelligence/AI|人工智能|[[1]](https://www.jiqizhixin.com/articles/6c4d3c08-7da7-4eb3-94e4-39a1c62f8f14) / [[2]](https://www.jiqizhixin.com/articles/becd2fae-251d-4a7b-9138-0c23abc37bec) / [[3]](https://www.jiqizhixin.com/articles/384306f4-c2c3-4e31-b35f-42b33b605d53)
 Association analysis|关联分析|[1]
 Asymptotically unbiased|渐近无偏|[1]
@@ -39,7 +39,7 @@ Attribute space|属性空间|[1]
 Attribute value|属性值|[1]
 Augmented Lagrangian|增广拉格朗日法|[1]
 Autoencoder|自编码器|[[1]](https://www.jiqizhixin.com/articles/fa8b9e4a-6c75-403c-880c-9e695d0280c8)
-Automatic diﬀerentiation|自动微分|[1]
+Automatic diﬀerentiation|自动微分|[[1]](https://www.jiqizhixin.com/articles/2017-11-07)
 Automatic speech recognition/ASR|自动语音识别|[1]
 Automatic summarization|自动摘要|[1]
 Auto-regressive network|自回归网络|[1]
