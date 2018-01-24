@@ -26,7 +26,7 @@ Application-speciﬁc integrated circuit|专用集成电路|[1]
 Approximate Bayesian computation|近似贝叶斯计算|[1]
 Approximate inference|近似推断|[1]
 Approximation|近似|[1]
-Architecture|架构|[1]
+Architecture|架构|[[1]](https://www.jiqizhixin.com/articles/2018-01-12)
 Area Under ROC Curve/AUC|Roc 曲线下面积|[1]
 Artificial General Intelligence/AGI|通用人工智能|[1]
 Artificial Intelligence/AI|人工智能|[[1]](https://www.jiqizhixin.com/articles/6c4d3c08-7da7-4eb3-94e4-39a1c62f8f14) / [[2]](https://www.jiqizhixin.com/articles/becd2fae-251d-4a7b-9138-0c23abc37bec) / [[3]](https://www.jiqizhixin.com/articles/384306f4-c2c3-4e31-b35f-42b33b605d53)
