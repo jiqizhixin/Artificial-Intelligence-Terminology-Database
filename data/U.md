@@ -16,7 +16,7 @@ Unit-step function|	单位阶跃函数|[1]
 Univariate decision tree	|单变量决策树|[1]
 Unprojection|反投影|[1]
 Unshared convolution|非共享卷积|[1]
-Unsupervised  learning|	无监督学习／无导师学习|[1]
+Unsupervised  learning|	无监督学习／无导师学习|[[1]](https://www.jiqizhixin.com/articles/2017-11-17-5)
 Unsupervised layer-wise training	|无监督逐层训练|[1]
 Upper Confidence Bounds|上置信界限|[1]
 Upsampling	|上采样|[1]
