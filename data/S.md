@@ -3,7 +3,7 @@
 
 英文/缩写|汉语|来源&扩展
 ---|---|---
-Saddle point|鞍点|[1]
+Saddle point|鞍点|[[1]](https://www.jiqizhixin.com/articles/2017-09-08)
 Saddle-free Newton method|无鞍牛顿法|[1]
 Sample space|样本空间|[1]
 Sampling|采样|[1]
@@ -11,19 +11,19 @@ Score function|评分函数|[1]
 Second derivative|二阶导数|[1]
 Second-order method|二阶方法|[1]
 Self-contrastive estimation|自对比估计|[1]
-Self-Driving|自动驾驶|[1]
+Self-Driving|自动驾驶|[[1]](https://www.jiqizhixin.com/articles/2017-12-27-7)/[[2]](https://www.jiqizhixin.com/articles/2018-01-16)/[[3]](https://www.jiqizhixin.com/articles/2018-01-08-9)
 Self-Organizing Map/SOM|自组织映射|[1]
 Semantic hashing|语义哈希|[1]
 Semantic similarity|语义相似度|[1]
 Semi-Definite Programming|半正定规划|[1]
 Semi-naive Bayes classifiers|半朴素贝叶斯分类器|[1]
 Semi-restricted Boltzmann Machine|半受限波尔兹曼机|[1]
-Semi-Supervised Learning|半监督学习|[1]
+Semi-Supervised Learning|半监督学习|[[1]](https://www.jiqizhixin.com/articles/2017-12-22-3)/[[2]](https://www.jiqizhixin.com/articles/2017-12-02)/[[3]](https://www.jiqizhixin.com/articles/2018-01-07)
 semi-Supervised Support Vector Machine|半监督支持向量机|[1]
-Sentiment analysis|情感分析|[1]
+Sentiment analysis|情感分析|[[1]](https://www.jiqizhixin.com/articles/2017-12-07-7)
 Separating hyperplane|分离超平面|[1]
 Shannon entropy|香农熵|[1]
-Sigmoid function|Sigmoid 函数|[1]
+Sigmoid function|Sigmoid 函数|[[1]](https://www.jiqizhixin.com/articles/2017-11-02-26)
 Similarity measure|相似度度量|[1]
 Simulated annealing|模拟退火|[1]
 Simultaneous localization and mapping/SLAM|同步定位与地图构建|[1]
@@ -45,8 +45,8 @@ Sparsity|稀疏性|[1]
 Specialization|特化|[1]
 Spectral Clustering|谱聚类|[1]
 Spectral radius|谱半径|[1]
-Speech Recognition|语音识别|[1]
-Spiking Neural Nets|脉冲神经网络|[1]
+Speech Recognition|语音识别|[[1]](https://www.jiqizhixin.com/articles/2018-01-01-3)/[[2]](https://www.jiqizhixin.com/articles/2017-12-04)/[[3]](https://www.jiqizhixin.com/articles/2017-12-15)
+Spiking Neural Nets|脉冲神经网络|[[1]](https://www.jiqizhixin.com/articles/2018-01-13-7)
 Splitting variable|切分变量|[1]
 Squashing function|挤压函数|[1]
 Stability-plasticity dilemma|可塑性-稳定性困境|[1]
@@ -57,7 +57,7 @@ Stationary distribution|稳态分布|[1]
 Stationary point|驻点|[1]
 Statistical learning|统计学习|[1]
 Status feature function|状态特征函数|[1]
-Stochastic gradient descent|随机梯度下降|[1]
+Stochastic gradient descent|随机梯度下降|[[1]](https://www.jiqizhixin.com/articles/2017-12-25-10)
 Stochastic Matrix|随机矩阵|[1]
 Stochastic maximum likelihood|随机最大似然|[1]
 Stochastic Neighbor Embedding|随机近邻嵌入|[1]
@@ -68,7 +68,7 @@ Structured variational inference|结构化变分推断|[1]
 Subspace|子空间|[1]
 Supervised learning|监督学习／有导师学习|[1]
 support vector expansion|支持向量展式|[1]
-Support Vector Machine/SVM|支持向量机|[1]
+Support Vector Machine/SVM|支持向量机|[[1]](https://www.jiqizhixin.com/articles/2017-10-08)
 Surrogat loss|替代损失|[1]
 Surrogate function|替代函数|[1]
 Symbolic learning|符号学习|[1]
