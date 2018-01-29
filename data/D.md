@@ -6,22 +6,22 @@
 Data generating distribution|数据生成分布|[1]
 Data mining	|数据挖掘|[1]
 Data parallelism|数据并行|[1]
-Data set	|数据集|[1]
-Data Wrangling|数据整理|[1]
+Data set	|数据集|[[1]](https://www.jiqizhixin.com/articles/2018-01-04-6)
+Data Wrangling|数据整理|[[1]](https://www.jiqizhixin.com/articles/2017-08-25-5)
 Dataset augmentation|数据集增强|[1]
 Decision Boundary	|决策边界|[1]
 Decision stump|	决策树桩|[1]
-Decision tree	|决策树／判定树|[1]
-Deconvolutional Network|解卷积网络|[1]
+Decision tree	|决策树／判定树|[[1]](https://www.jiqizhixin.com/articles/2018-01-10)/[[2]](https://www.jiqizhixin.com/articles/2017-11-29-5)
+Deconvolutional Network|解卷积网络|[[1]](https://www.jiqizhixin.com/articles/2017-09-14)
 Deduction	|演绎|[1]
 Deep Belief Network	|深度信念网络|[1]
 Deep Boltzmann Machine|深度玻尔兹曼机|[1]
 Deep circuit|深度回路|[1]
 Deep Convolutional Generative Adversarial Network/DCGAN|	深度卷积生成对抗网络|[1]
 Deep generative model|深度生成模型|[1]
-Deep learning|	深度学习|[1]
-Deep neural network/DNN|	深度神经网络|[1]
-Deep Q-Learning	|深度 Q 学习|[1]
+Deep learning|	深度学习|[[1]](https://www.jiqizhixin.com/articles/2018-01-17-2)/[[2]](https://www.jiqizhixin.com/articles/2018-01-15-4)/[[3]](https://www.jiqizhixin.com/articles/2018-01-15-2)
+Deep neural network/DNN|	深度神经网络|[[1]](https://www.jiqizhixin.com/articles/2018-01-15-2)/[[2]](https://www.jiqizhixin.com/articles/2018-01-10)/[[3]](https://www.jiqizhixin.com/articles/2018-01-07-2)
+Deep Q-Learning	|深度 Q 学习|[[1]](https://www.jiqizhixin.com/articles/2017-10-10-2)/[[2]](https://www.jiqizhixin.com/articles/2017-08-22-8)
 Deep Q-Network	|深度 Q 网络|[1]
 Denoising autoencoder|去噪自编码器|[1]
 Denoising score matching|去噪得分匹配|[1]
@@ -44,7 +44,7 @@ Discriminator|	判别器|[1]
 Discriminator network|判别器网络|[1]
 Distance measure	|距离度量|[1]
 Distance metric learning|距离度量学习|[1]
-Distribution|	分布|[1]
+Distribution|	分布|[[1]](https://www.jiqizhixin.com/articles/2018-01-09)
 Divergence|	散度|[1]
 Diversity measure	|多样性度量／差异性度量|[1]
 Domain adaption	|领域自适应|[1]
