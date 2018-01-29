@@ -3,10 +3,10 @@
 
 英文/缩写|汉语|来源&扩展
 ---|---|---
-ICML|	国际机器学习会议|[1]
+ICML|	国际机器学习会议|[[1]](https://www.jiqizhixin.com/articles/2017-12-31)
 Identity matrix|单位矩阵|[1]
 Image restoration|图像复原|[1]
-Imperfect Information|不完美信息|[1]
+Imperfect Information|不完美信息|[[1]](https://www.jiqizhixin.com/articles/2017-11-16-4)
 Improved iterative scaling/IIS|改进的迭代尺度法|[1]
 Incremental learning	|增量学习|[1]
 Independent and identically distributed/i.i.d.|	独立同分布|[1]
@@ -19,7 +19,7 @@ Inductive bias	|归纳偏好|[1]
 Inductive learning|	归纳学习|[1]
 Inductive Logic Programming/ILP	|归纳逻辑程序设计|[1]
 Inequality constraint|不等式约束|[1]
-Inference|推断|[1]
+Inference|推断|[[1]](https://www.jiqizhixin.com/articles/2017-12-14-6)
 Information entropy	|信息熵|[1]
 Information gain|	信息增益|[1]
 Input layer|输入层|[1]
@@ -28,7 +28,7 @@ Inter-cluster similarity |	簇间相似度|[1]
 International Conference for Machine Learning/ICML|	国际机器学习大会|[1]
 Intra-cluster similarity|	簇内相似度|[1]
 Intrinsic value	|固有值|[1]
-Invariance|不变性|[1]
+Invariance|不变性|[[1]](https://www.jiqizhixin.com/articles/2017-12-16-3)
 Invert|求逆|[1]
 Isometric Mapping/Isomap|等度量映射|[1]
 Isotonic regression	|等分回归|[1]
