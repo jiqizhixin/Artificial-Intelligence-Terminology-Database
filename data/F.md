@@ -16,7 +16,7 @@ Feature map|特征映射|[1]
 Feature selection|	特征选择|[1]
 Feature vector|	特征向量|[1]
 Featured Learning	|特征学习|[1]
-Feedforward Neural Networks/FNN|前馈神经网络|[1]
+Feedforward Neural Networks/FNN|前馈神经网络|[[1]](https://www.jiqizhixin.com/articles/2017-09-07-9)
 Field Programmable Gated Array|现场可编程门阵列|[1]
 Fine-tuning	|精调|[1]
 Finite difference|有限差分|[1]
