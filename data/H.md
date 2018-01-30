@@ -10,7 +10,7 @@ Hesse matrix|海赛矩阵|[1]
 Heterogeneous Information Network/HIN|异质信息网络|[1]
 Hidden dynamic model|隐动态模型|[1]
 Hidden layer|隐藏层|[1]
-Hidden Markov Model/HMM|隐马尔可夫模型|[1]
+Hidden Markov Model/HMM|隐马尔可夫模型|[[1]](https://www.jiqizhixin.com/articles/2017-09-21-8)
 Hierarchical clustering|层次聚类|[1]
 Hilbert space|希尔伯特空间|[1]
 Hinge loss function|合页损失函数|[1]
