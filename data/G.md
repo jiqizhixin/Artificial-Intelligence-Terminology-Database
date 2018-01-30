@@ -19,7 +19,7 @@ Generalized linear model	|广义线性模型|[1]
 Generalized pseudolikelihood|广义伪似然|[1]
 Generalized Rayleigh quotient	|广义瑞利商|[1]
 Generalized score matching	|广义得分匹配|[1]
-Generative Adversarial Networks/GAN|生成对抗网络|[[1]](https://www.jiqizhixin.com/articles/2017-12-26-4)/[[2]](https://www.jiqizhixin.com/articles/2018-01-08-5)/[[3]](https://www.jiqizhixin.com/articles/2017-12-13-2）
+Generative Adversarial Networks/GAN|生成对抗网络|[[1]](https://www.jiqizhixin.com/articles/2017-12-26-4)/[[2]](https://www.jiqizhixin.com/articles/2018-01-08-5)/[[3]](https://www.jiqizhixin.com/articles/2017-12-13-2)
 Generative Model	|生成模型|[[1]](https://www.jiqizhixin.com/articles/2017-12-19-7)/[[2]](https://www.jiqizhixin.com/articles/2017-12-11-6)/[[3]](https://www.jiqizhixin.com/articles/2017-12-04-5)
 Generative moment matching network|生成矩匹配网络|[1]
 Generator	|生成器|[1]
