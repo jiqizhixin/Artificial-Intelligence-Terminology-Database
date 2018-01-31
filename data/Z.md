@@ -5,4 +5,4 @@
 ---|---|---
 Zero mean|零均值|[1]
 Zero-data learning|零数据学习|[1]
-Zero-shot learning|零次学习|[1]
+Zero-shot learning|零次学习|[[1]](https://www.jiqizhixin.com/articles/2017-03-31-6)
