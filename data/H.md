@@ -17,6 +17,6 @@ Hinge loss function|合页损失函数|[1]
 Hold-out|留出法|[1]
 Homogeneous|同质|[1]
 Hybrid computing|混合计算|[1]
-Hyperparameter|超参数|[1]
+Hyperparameter|超参数|[[1]](https://www.jiqizhixin.com/articles/2017-08-18-5)/[[2]](https://www.jiqizhixin.com/articles/2017-11-28)
 Hypothesis|假设|[1]
 Hypothesis test|假设检验|[1]
