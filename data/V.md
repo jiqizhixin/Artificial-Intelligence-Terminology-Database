@@ -3,7 +3,7 @@
 
 英文/缩写|汉语|来源&扩展
 ---|---|---
-Vanishing Gradient Problem|梯度消失问题|[1]
+Vanishing Gradient Problem|梯度消失问题|[[1]](https://www.jiqizhixin.com/articles/2018-01-07-2)
 Variational derivative|变分导数|[1]
 Variational free energy|变分自由能|[1]
 Variational inference|变分推断|[1]
