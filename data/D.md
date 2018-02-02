@@ -30,10 +30,10 @@ Density-based clustering|密度聚类|[1]
 Detailed balance|细致平衡|[1]
 Determinant|行列式|[1]
 Diagonal matrix|对角矩阵|[1]
-Differentiable neural computer|	可微分神经计算机|[1]
+Differentiable neural computer|	可微分神经计算机|[[1]](https://www.jiqizhixin.com/articles/2017-04-11-7)
 Diﬀerential entropy|微分熵|[1]
 Diﬀerential equation|微分方程|[1]
-Dimensionality reduction algorithm|	降维算法|[1]
+Dimensionality reduction algorithm|	降维算法|[[1]](https://www.jiqizhixin.com/articles/2017-08-31-2)
 Directed edge|有向边|[1]
 Directed graphical model|有向图模型|[1]
 Directional derivative|方向导数|[1]
