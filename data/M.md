@@ -3,7 +3,7 @@
 
 英文/缩写|汉语|来源&扩展
 ---|---|---
-Machine translation/MT|	机器翻译|[1]
+Machine translation/MT|	机器翻译|[[1]](https://www.jiqizhixin.com/articles/2018-01-13-5)
 Macron-P	|宏查准率|[1]
 Macron-R	|宏查全率|[1]
 Main diagonal|主对角线|[1]
@@ -17,15 +17,15 @@ Marginal independence 	|边缘独立性|[1]
 Marginal probability distribution|边缘概率分布|[1]
 Marginalization 	|边际化|[1]
 Markov Chain|马尔可夫链|[1]
-Markov Chain Monte Carlo/MCMC|马尔可夫链蒙特卡罗方法|[1]
+Markov Chain Monte Carlo/MCMC|马尔可夫链蒙特卡罗方法|[[1]](https://www.jiqizhixin.com/articles/2017-12-24-6)
 Markov Random Field|马尔可夫随机场|[1]
 Matrix inversion|逆矩阵|[1]
 Maximal clique|最大团|[1]
 Maximum A Posteriori|最大后验|[1]
-Maximum Likelihood Estimation/MLE|	极大似然估计／极大似然法|[1]
+Maximum Likelihood Estimation/MLE|	极大似然估计／极大似然法|[[1]](https://www.jiqizhixin.com/articles/2018-01-09-6)
 Maximum margin	|最大间隔|[1]
 Maximum weighted spanning tree|	最大带权生成树|[1]
-Max-Pooling	|最大池化|[1]
+Max-Pooling	|最大池化|[[1]](https://www.jiqizhixin.com/articles/2017-10-02-5)
 Mean product of Student t-distribution|学生 t 分布均值乘积|[1]
 Mean squared error	|均方误差|[1]
 Mean-covariance restricted Boltzmann machine|均值-协方差受限玻尔兹曼机|[1]
