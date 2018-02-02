@@ -42,7 +42,7 @@ Mixture density network|混合密度网络|[1]
 Mixture of experts|	混合专家|[1]
 Model predictive control (MPC)|	模型预测控制|[1]
 Moment matching|矩匹配|[1]
-Momentum	|动量|[1]
+Momentum	|动量|[[1]](https://www.jiqizhixin.com/articles/2017-07-01-4)
 Moral graph	|道德图／端正图|[1]
 Multi-class classification	|多分类|[1]
 Multi-document summarization	|多文档摘要|[1]
