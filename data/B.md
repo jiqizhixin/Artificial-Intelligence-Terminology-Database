@@ -41,6 +41,7 @@ Boltzmann distribution|玻尔兹曼分布|[1]
 Boltzmann machine|玻尔兹曼机|[[1]](https://www.jiqizhixin.com/articles/2017-10-08-4)
 Bootstrap sampling|自助采样法／可重复采样／有放回采样|[1]
 Bootstrapping|自助法|[1]
+Bounding Boxes|边界框|[1]
 Break-Event Point/BEP|平衡点|[1]
 Bridge sampling|桥式采样|[1]
 Broadcasting|广播|[1]
