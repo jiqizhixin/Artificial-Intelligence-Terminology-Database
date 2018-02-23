@@ -19,6 +19,7 @@ Perceptron|感知机|[[1]](https://www.jiqizhixin.com/articles/2018-01-15-2)
 Performance measure|性能度量|[1]
 Permutation invariant|置换不变性|[1]
 Perplexity|困惑度|[1]
+Pictorial structure|图形结构|[1]
 Plug and Play Generative Network|即插即用生成网络|[1]
 Plurality voting|相对多数投票法|[1]
 Polarity detection|极性检测|[1]
