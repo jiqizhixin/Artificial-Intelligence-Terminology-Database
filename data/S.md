@@ -14,6 +14,7 @@ Self-contrastive estimation|自对比估计|[1]
 Self-Driving|自动驾驶|[[1]](https://www.jiqizhixin.com/articles/2017-12-27-7)/[[2]](https://www.jiqizhixin.com/articles/2018-01-16)/[[3]](https://www.jiqizhixin.com/articles/2018-01-08-9)
 Self-Organizing Map/SOM|自组织映射|[1]
 Semantic hashing|语义哈希|[1]
+Semantic segmentation|语义分割|[1]
 Semantic similarity|语义相似度|[1]
 Semi-Definite Programming|半正定规划|[1]
 Semi-naive Bayes classifiers|半朴素贝叶斯分类器|[1]
