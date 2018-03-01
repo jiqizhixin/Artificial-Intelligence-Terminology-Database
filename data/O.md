@@ -9,6 +9,7 @@ Occam's razor|奥卡姆剃刀|[1]
 Odds|几率|[1]
 Offline inference|离线推断|[[1]](https://www.jiqizhixin.com/articles/2017-11-06-5)
 Off-Policy|离策略|[1]
+Offset vector|偏移向量|[1]
 One shot learning|一次性学习|[[1]](https://www.jiqizhixin.com/articles/2017-03-13-2)
 One-Dependent Estimator/ODE|独依赖估计|[1]
 Online inference|在线推断|[1]
