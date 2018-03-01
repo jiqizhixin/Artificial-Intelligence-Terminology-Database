@@ -9,6 +9,7 @@ Data parallelism|数据并行|[1]
 Data set	|数据集|[[1]](https://www.jiqizhixin.com/articles/2018-01-04-6)
 Data Wrangling|数据整理|[[1]](https://www.jiqizhixin.com/articles/2017-08-25-5)
 Dataset augmentation|数据集增强|[1]
+Debugging strategy|调试策略|[1]
 Decision Boundary	|决策边界|[1]
 Decision stump|	决策树桩|[1]
 Decision tree	|决策树／判定树|[[1]](https://www.jiqizhixin.com/articles/2018-01-10)/[[2]](https://www.jiqizhixin.com/articles/2017-11-29-5)
