@@ -43,6 +43,7 @@ Mixture of experts|	混合专家|[1]
 Model predictive control (MPC)|	模型预测控制|[1]
 Moment matching|矩匹配|[1]
 Momentum	|动量|[[1]](https://www.jiqizhixin.com/articles/2017-07-01-4)
+Monte Carlo Estimate|蒙特卡洛估计|[1]
 Moore's Law|摩尔定律|[1]
 Moral graph	|道德图／端正图|[1]
 Multi-class classification	|多分类|[1]
