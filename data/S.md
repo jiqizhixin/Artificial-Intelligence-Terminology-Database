@@ -5,6 +5,7 @@
 ---|---|---
 Saddle point|鞍点|[[1]](https://www.jiqizhixin.com/articles/2017-09-08)
 Saddle-free Newton method|无鞍牛顿法|[1]
+Saliency map|显著图|[1]
 Sample space|样本空间|[1]
 Sampling|采样|[1]
 Score function|评分函数|[1]
@@ -24,6 +25,7 @@ semi-Supervised Support Vector Machine|半监督支持向量机|[1]
 Sentiment analysis|情感分析|[[1]](https://www.jiqizhixin.com/articles/2017-12-07-7)
 Separating hyperplane|分离超平面|[1]
 Shannon entropy|香农熵|[1]
+Shift invariance|平移不变性|[1]
 Sigmoid function|Sigmoid 函数|[[1]](https://www.jiqizhixin.com/articles/2017-11-02-26)
 Similarity measure|相似度度量|[1]
 Simulated annealing|模拟退火|[1]
