@@ -23,6 +23,7 @@ Pictorial structure|图形结构|[1]
 Plug and Play Generative Network|即插即用生成网络|[1]
 Plurality voting|相对多数投票法|[1]
 Polarity detection|极性检测|[1]
+Polynomial Basis Function|多项式基函数|[1]
 Polynomial kernel function|多项式核函数|[1]
 Pooling|池化|[[1]](https://www.jiqizhixin.com/articles/2017-10-02-5)
 Positive class|正类|[1]
