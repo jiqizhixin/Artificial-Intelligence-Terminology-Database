@@ -21,6 +21,7 @@ Bayesian optimization|贝叶斯优化|[[1]](https://www.jiqizhixin.com/articles/
 Beam search|束搜索|[[1]](https://www.jiqizhixin.com/articles/2018-01-31-3)
 Bechmark|基准|[1]
 Belief network|信念网络|[1]
+Bellman equation|贝尔曼方程|[1]
 Between-class scatter matrix|类间散度矩阵|[1]
 Bias|偏置 / 偏差|[1]
 Biased|有偏|[1]
@@ -41,6 +42,7 @@ Boltzmann distribution|玻尔兹曼分布|[1]
 Boltzmann machine|玻尔兹曼机|[[1]](https://www.jiqizhixin.com/articles/2017-10-08-4)
 Bootstrap sampling|自助采样法／可重复采样／有放回采样|[1]
 Bootstrapping|自助法|[1]
+Bottleneck layer|瓶颈层|[1]
 Bounding Boxes|边界框|[1]
 Break-Event Point/BEP|平衡点|[1]
 Bridge sampling|桥式采样|[1]
