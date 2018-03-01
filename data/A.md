@@ -6,6 +6,7 @@
 Absolute value rectification|绝对值整流|[1]
 Activation Function|激活函数|[[1]](https://www.jiqizhixin.com/articles/75832471-bf67-4450-9173-ada016694ee8) / [[2]](https://www.jiqizhixin.com/articles/343a4328-2915-4b20-a770-9e8bc74dfc1a)
 Accumulated error backpropagation|累积误差反向传播|[1]
+Acoustic modeling|声学建模|[1]
 Acquisition funtion|采集函数|[[1]](https://www.jiqizhixin.com/articles/2017-08-18-5)
 Actor-critic method|行为-评判方法|[[1]](https://www.jiqizhixin.com/articles/2017-08-14)
 Adaptive bitrate (ABR) algorithm|自适应比特率算法|[1]
@@ -19,6 +20,7 @@ Agent|智能体|[[1]](https://www.jiqizhixin.com/articles/83490ca4-3bb9-40fa-930
 Algorithm|算法|[[1]](https://www.jiqizhixin.com/articles/99633338-62ff-460e-b313-0ab7a38d6592) / [[2]](https://www.jiqizhixin.com/articles/90a896ca-c170-4cb9-b388-e27972d9888e) / [[3]](https://www.jiqizhixin.com/articles/66d2b476-1f96-452a-8bfc-1fbc2104e935)
 Alpha-beta pruning|α-β剪枝|[1]
 Alternative splicing dataset|选择性剪接数据集|[1]
+Analytic gradient|解析梯度|[1]
 Ancestral Sampling|原始采样|[1]
 Annealed importance sampling|退火重要采样|[1]
 Anomaly detection|异常检测|[1]
