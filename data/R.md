@@ -24,6 +24,7 @@ Reproducing Kernel Hilbert Space/RKHS|再生核希尔伯特空间|[1]
 Re-sampling|重采样法|[1]
 Rescaling|再缩放|[1]
 Reservoir computing|储层计算|[1]
+Residual Blocks|残差块|[1]
 Residual Mapping|残差映射|[1]
 Residual Network|残差网络|[[1]](https://www.jiqizhixin.com/articles/2017-12-18-2)
 Restricted Boltzmann Machine/RBM|受限玻尔兹曼机|[[1]](https://www.jiqizhixin.com/articles/2017-10-08-4)
