@@ -33,5 +33,7 @@ Expected loss |期望损失|[1]
 Expert network|专家网络|[1]
 Explaining away eﬀect|相消解释作用|[1]
 Exploding Gradient Problem|	梯度爆炸问题|[[1]](https://www.jiqizhixin.com/articles/2017-12-21-14)
+Exploitation|利用|[1]
+Exploration|探索|[1]
 Exponential loss function |	指数损失函数|[1]
 Extreme Learning Machine/ELM|超限学习机|[[1]](https://www.jiqizhixin.com/articles/2016-09-30-3)
