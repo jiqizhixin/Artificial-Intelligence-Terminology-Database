@@ -46,7 +46,7 @@ Momentum	|动量|[[1]](https://www.jiqizhixin.com/articles/2017-07-01-4)
 Monte Carlo Estimate|蒙特卡洛估计|[1]
 Moore's Law|摩尔定律|[1]
 Moral graph	|道德图／端正图|[1]
-Multi-class classification	|多分类|[1]
+Multi-class classification	|多类别分类 |[1]
 Multi-document summarization	|多文档摘要|[1]
 Multi-kernel learning|多核学习|[1]
 Multi-layer feedforward neural networks|	多层前馈神经网络|[1]
