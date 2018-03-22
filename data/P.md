@@ -34,7 +34,7 @@ Post-hoc test|后续检验|[1]
 Post-pruning|后剪枝|[1]
 potential function|势函数|[1]
 Power method|幂方法|[1]
-Precision|查准率／准确率|[1]
+Precision|查准率／精确率|[1][[5]](https://developers.google.cn/machine-learning/glossary/?hl=zh-CN)
 Prepruning|预剪枝|[1]
 Principal component analysis/PCA|主成分分析|[[1]](https://www.jiqizhixin.com/articles/2017-12-03-4)
 Principle of multiple explanations|多释原则|[1]
