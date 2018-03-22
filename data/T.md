@@ -20,13 +20,13 @@ Tokenization|标记化|[1]
 Training error|训练误差|[1]
 Training instance|训练示例／训练例|[1]
 Transductive learning|直推学习|[1]
-Transfer learning|迁移学习|[[1]](https://www.jiqizhixin.com/articles/2018-01-04-7)
+Transfer learning|迁移学习/转移学习|[[1]](https://www.jiqizhixin.com/articles/2018-01-04-7)/[[5]](https://developers.google.cn/machine-learning/glossary/?hl=zh-CN)
 Treebank|树库|[1]
 Trial-by-error|试错法|[1]
 Triangulate|三角形化|[1]
 Trigram|三元语法|[1]
-True negative|真负类|[1]
-True positive|真正类|[1]
+True negative|真负例|[1]/[5]
+True positive|真正例|[1]/[5]
 True Positive Rate/TPR|真正例率|[1]
 Turing Machine|图灵机|[[1]](https://www.jiqizhixin.com/articles/2017-04-11-7)
 Twice-learning|二次学习|[1]
