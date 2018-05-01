@@ -11,7 +11,7 @@ Eigenvalue decomposition|特征值分解|[1]
 Eigenvector|特征向量|[1]
 Element-wise product|元素对应乘积|[1]
 Ellipsoid method|椭球法|[1]
-Embedding	|嵌入|[[1]](https://www.jiqizhixin.com/articles/2018-01-02-5)
+Embedding	|嵌套|[[1]](https://www.jiqizhixin.com/articles/2018-01-02-5)[[5]](https://developers.google.cn/machine-learning/glossary/?hl=zh-CN)
 Emotional analysis	|情绪分析|[1]
 Empirical conditional entropy|经验条件熵|[1]
 Empirical entropy|经验熵|[1]
@@ -21,7 +21,7 @@ End-to-End	|端到端|[[1]](https://www.jiqizhixin.com/articles/2017-12-15)
 Energy-based model	|基于能量的模型|[1]
 Ensemble learning|	集成学习|[[1]](https://www.jiqizhixin.com/articles/2018-01-14-8)
 Ensemble pruning	|集成修剪|[1]
-Epochs|轮数|[1]
+Epochs|轮数/周期|[1][[5]](https://developers.google.cn/machine-learning/glossary/?hl=zh-CN)
 Error Correcting Output Codes/ECOC	|纠错输出码|[1]
 Error rate|错误率|[1]
 Error-ambiguity decomposition|	误差-分歧分解|[1]

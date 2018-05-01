@@ -27,7 +27,7 @@ Separating hyperplane|分离超平面|[1]
 Shannon entropy|香农熵|[1]
 Shift invariance|平移不变性|[1]
 Siamese Network|孪生网络|[[1]](https://www.jiqizhixin.com/articles/2018-01-02-4)
-Sigmoid function|Sigmoid 函数|[[1]](https://www.jiqizhixin.com/articles/2017-11-02-26)
+Sigmoid function|Sigmoid 函数/S 型函数|[[1]](https://www.jiqizhixin.com/articles/2017-11-02-26)/[[5]](https://developers.google.cn/machine-learning/glossary/?hl=zh-CN)
 Similarity measure|相似度度量|[1]
 Simulated annealing|模拟退火|[1]
 Simultaneous localization and mapping/SLAM|同步定位与地图构建|[1]

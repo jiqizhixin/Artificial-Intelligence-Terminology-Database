@@ -17,7 +17,7 @@ On-Policy|在策略|[1]
 Ordinal attribute|有序属性|[1]
 Orthogonal matrix|正交矩阵|[1]
 Orthonormal|标准正交|[1]
-Outlier|异常值|[1]
+Outlier|异常值/离群值|[1][[5]](https://developers.google.cn/machine-learning/glossary/?hl=zh-CN)
 Out-of-bag estimate	|包外估计|[1]
 Output layer|输出层|[1]
 Output smearing|输出调制法|[1]

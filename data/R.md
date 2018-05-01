@@ -6,7 +6,7 @@
 Radial Basis Function/RBF|径向基函数|[1]
 Random Forest Algorithm|随机森林算法|[1]
 Random walk|随机漫步 |[1]
-Recall|查全率／召回率|[1]
+Recall|召回率／查全率|[1]
 Receiver Operating Characteristic/ROC|受试者工作特征|[1]
 Rectified Linear Unit/ReLU|线性修正单元|[[1]](https://www.jiqizhixin.com/articles/2017-10-21-4)
 Recurrent Neural Network|循环神经网络|[[1]](https://www.jiqizhixin.com/articles/2018-01-13-4)/[[2]](https://www.jiqizhixin.com/articles/2018-01-05-5)/[[3]](https://www.jiqizhixin.com/articles/2017-12-21-15)
