@@ -28,6 +28,7 @@ Error-ambiguity decomposition|	误差-分歧分解|[1]
 Euclidean distance|	欧氏距离|[1]
 Euclidean norm|欧几里得范数|[1]
 Evolutionary computation |演化计算|[1]
+Exact|确切的|
 Expectation-Maximization/EM|	期望最大化|[1]
 Expected loss |期望损失|[1]
 Expert network|专家网络|[1]
