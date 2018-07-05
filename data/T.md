@@ -18,7 +18,7 @@ Time delay neural network|时延神经网络|[1]
 Time Step|时间步骤|[1]
 Tokenization|标记化/分词|[1]
 Training error|训练误差|[1]
-Training instance|训练示例／训练例|[1]
+Training instance|训练实例|[1]
 Transductive learning|直推学习|[1]
 Transfer learning|迁移学习/转移学习|[[1]](https://www.jiqizhixin.com/articles/2018-01-04-7)/[[5]](https://developers.google.cn/machine-learning/glossary/?hl=zh-CN)
 Treebank|树库|[1]
