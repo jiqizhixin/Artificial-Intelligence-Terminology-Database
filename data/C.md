@@ -5,7 +5,7 @@
 ---|---|---
 Calculus of variations|变分法|[1]
 Calibration|校准|[1]
-Canonical| 正则 |
+Canonical| 正则的 |
 Cascade/Coalesced|级联|[1]
 Cascade-Correlation|级联相关|[1]
 Categorical attribute|分类属性|[1][[5]](https://developers.google.cn/machine-learning/glossary/?hl=zh-CN)
