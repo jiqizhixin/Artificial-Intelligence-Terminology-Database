@@ -5,10 +5,11 @@
 ---|---|---
 Calculus of variations|变分法|[1]
 Calibration|校准|[1]
+Canonical| 正则的 |
 Cascade/Coalesced|级联|[1]
 Cascade-Correlation|级联相关|[1]
 Categorical attribute|分类属性|[1][[5]](https://developers.google.cn/machine-learning/glossary/?hl=zh-CN)
-Categorical distribution|范畴分布|[1]
+Categorical distribution|范畴分布、分类分布|[1]
 Causal factor|因果因子|[1]
 Causal modeling|因果模型|[1]
 Centered difference|中心差分|[1]

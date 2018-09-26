@@ -30,6 +30,7 @@ Density estimation 	|密度估计|[1]
 Density-based clustering|密度聚类|[1]
 Detailed balance|细致平衡|[1]
 Determinant|行列式|[1]
+Deterministic|确定性|
 Diagonal matrix|对角矩阵|[1]
 Differentiable neural computer|	可微分神经计算机|[[1]](https://www.jiqizhixin.com/articles/2017-04-11-7)
 Diﬀerential entropy|微分熵|[1]

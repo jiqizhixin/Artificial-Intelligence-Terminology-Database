@@ -16,6 +16,7 @@ Threshold-moving|阈值移动|[1]
 Tiled convolution|平铺卷积|[1]
 Time delay neural network|时延神经网络|[1]
 Time Step|时间步骤|[1]
+Tractable|易处理的|
 Tokenization|标记化/分词|[1]
 Training error|训练误差|[1]
 Training instance|训练实例|[1]
