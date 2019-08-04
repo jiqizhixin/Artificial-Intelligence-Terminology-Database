@@ -9,7 +9,7 @@ Lagrange multiplier|拉格朗日乘子|[1]
 Laplace smoothing|拉普拉斯平滑|[1]
 Laplacian correction|拉普拉斯修正|[1]
 Latent Dirichlet Allocation/LDA |隐狄利克雷分布|[[1]](https://www.jiqizhixin.com/articles/2017-09-01-7)
-Latent semantic analysis|潜在语义分析|[1]
+Latent semantic analysis|潜在语义分析|[[1]](https://en.wikipedia.org/wiki/Latent_semantic_analysis)
 Latent variable|隐变量|[1]
 Law of large number|大数定理|[1]
 Layer-wise Adaptive Rate Scaling/LARS|层级对应的适应率缩放|[1]
