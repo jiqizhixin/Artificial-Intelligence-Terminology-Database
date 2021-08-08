@@ -115,7 +115,7 @@
 ## Version 3.0，2020-08-03
 
 - 第三版术语库发布，包含了 2094 个词
-- 增加了领域专题 Section，第一个 Section 为 机器学习（Machine Learning）篇，
+- 增加了领域专题 Section，第一个 Section 为 机器学习（Machine Learning）篇
 
 ## Version 2.0，2018-05-03
 
