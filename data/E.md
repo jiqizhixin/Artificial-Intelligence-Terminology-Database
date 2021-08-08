@@ -1,40 +1,109 @@
 # Letter E
 [*Return*](https://github.com/SyncedAI00/Artificial-Intelligence-Terminology/blob/master/README.md)
-
-英文/缩写|汉语|来源&扩展
----|---|---
-Echo state network|回声状态网络|[1]
-Edge device|边缘设备|[[1]](https://www.jiqizhixin.com/articles/2017-09-24-8)
-Eigendecomposition|特征分解|[[1]](https://www.jiqizhixin.com/articles/2017-07-05-2)
-Eigenvalue|特征值|[1]
-Eigenvalue decomposition|特征值分解|[1]
-Eigenvector|特征向量|[1]
-Element-wise product|元素对应乘积|[1]
-Ellipsoid method|椭球法|[1]
-Embedding	|嵌套|[[1]](https://www.jiqizhixin.com/articles/2018-01-02-5)[[5]](https://developers.google.cn/machine-learning/glossary/?hl=zh-CN)
-Emotional analysis	|情绪分析|[1]
-Empirical conditional entropy|经验条件熵|[1]
-Empirical entropy|经验熵|[1]
-Empirical error|	经验误差|[1]
-Empirical risk	|经验风险|[1]
-End-to-End	|端到端|[[1]](https://www.jiqizhixin.com/articles/2017-12-15)
-Energy-based model	|基于能量的模型|[1]
-Ensemble learning|	集成学习|[[1]](https://www.jiqizhixin.com/articles/2018-01-14-8)
-Ensemble pruning	|集成修剪|[1]
-Epochs|轮数/周期|[1][[5]](https://developers.google.cn/machine-learning/glossary/?hl=zh-CN)
-Error Correcting Output Codes/ECOC	|纠错输出码|[1]
-Error rate|错误率|[1]
-Error-ambiguity decomposition|	误差-分歧分解|[1]
-Euclidean distance|	欧氏距离|[1]
-Euclidean norm|欧几里得范数|[1]
-Evolutionary computation |演化计算|[1]
-Exact|确切的|
-Expectation-Maximization/EM|	期望最大化|[1]
-Expected loss |期望损失|[1]
-Expert network|专家网络|[1]
-Explaining away eﬀect|相消解释作用|[1]
-Exploding Gradient Problem|	梯度爆炸问题|[[1]](https://www.jiqizhixin.com/articles/2017-12-21-14)
-Exploitation|利用|[1]
-Exploration|探索|[1]
-Exponential loss function |	指数损失函数|[1]
-Extreme Learning Machine/ELM|超限学习机|[[1]](https://www.jiqizhixin.com/articles/2016-09-30-3)
+索引编号|英文术语|中文翻译|常用缩写|来源&扩展|备注
+---|---|---|---|---|---
+AITD-00505|Eager Learning|急切学习||[1]||
+AITD-00506|Early Stopping|早停||[1]||
+AITD-00507|Earth-Mover's Distance|推土机距离|EMD|[1]||
+AITD-00508|Echo State Network|回声状态网络||[1]||
+AITD-00509|Edge|边||[1]||
+AITD-00510|Edge Device|边缘设备||[[1]](https://www.jiqizhixin.com/articles/2017-09-24-8)||
+AITD-00511|Effective Capacity|有效容量||[1]||
+AITD-00512|Eigendecomposition|特征分解||[[1]](https://www.jiqizhixin.com/articles/2017-07-05-2)||
+AITD-00513|Eigenvalue|特征值||[1]||
+AITD-00514|Eigenvalue Decomposition|特征值分解||[1]||
+AITD-00515|Elastic Net Regularization|弹性网络正则化||[1]||
+AITD-00516|Elastic Weight Consolidation|弹性权重巩固||[1]||
+AITD-00517|Element-Wise Product|逐元素积||[1]||
+AITD-00518|Elementary Basis Vectors|基本单位向量||[1]||
+AITD-00519|Ellipsoid Method|椭球法||[1]||
+AITD-00520|Embedding|嵌入||[[1]](https://www.jiqizhixin.com/articles/2018-01-02-5)||
+AITD-00521|Embedding Lookup Table|嵌入表||[1]||
+AITD-00522|Emotional Analysis|情绪分析||[1]||
+AITD-00523|Empirical Conditional Entropy|经验条件熵||[1]||
+AITD-00524|Empirical Distribution|经验分布||[1]||
+AITD-00525|Empirical Entropy|经验熵||[1]||
+AITD-00526|Empirical Error|经验误差||[1]||
+AITD-00527|Empirical Frequency|经验频率||[1]||
+AITD-00528|Empirical Loss|经验损失||[1]||
+AITD-00529|Empirical Risk|经验风险||[1]||
+AITD-00530|Empirical Risk Minimization|经验风险最小化|ERM|[1]||
+AITD-00531|Encoder|编码器||[1]||
+AITD-00532|Encoder-Decoder|编码器-解码器||[1]||
+AITD-00533|Encoding|编码||[1]||
+AITD-00534|End-To-End|端到端||[[1]](https://www.jiqizhixin.com/articles/2017-12-15)||
+AITD-00535|End-To-End Learning|端到端学习||[1]||
+AITD-00536|End-To-End Memory Network|端到端记忆网络|Memn2N|[1]||
+AITD-00537|Energy Function|能量函数||[1]||
+AITD-00538|Energy Gap|能量差异||[1]||
+AITD-00539|Energy-Based Model|基于能量的模型||[1]||
+AITD-00540|Ensemble|集成||[1]||
+AITD-00541|Ensemble Learning|集成学习||[[1]](https://www.jiqizhixin.com/articles/2018-01-14-8)||
+AITD-00542|Ensemble Pruning|集成修剪||[1]||
+AITD-00543|Entropy|熵||[1]||
+AITD-00544|Entropy Encoding|熵编码||[1]||
+AITD-00545|Environment|环境||[1]||
+AITD-00546|Episode|回合||[1]||
+AITD-00547|Episodic Task|回合式任务||[1]||
+AITD-00548|Epoch|轮||[1]||
+AITD-00549|Equal-Width Convolution|等宽卷积||[1]||
+AITD-00550|Equality Constraint|等式约束||[1]||
+AITD-00551|Equilibrium Distribution|均衡分布||[1]||
+AITD-00552|Equivariance|等变||[1]||
+AITD-00553|Equivariant Representations|等变表示||[1]||
+AITD-00554|Error|误差||[1]||
+AITD-00555|Error Backpropagation Algorithm|误差反向传播算法||[1]||
+AITD-00556|Error Backpropagation|误差反向传播||[1]||
+AITD-00557|Error Bar|误差条||[1]||
+AITD-00558|Error Correcting Output Codes|纠错输出编码|ECOC|[1]||
+AITD-00559|Error Function|误差函数||[1]||
+AITD-00560|Error Metric|误差度量||[1]||
+AITD-00561|Error Rate|错误率||[1]||
+AITD-00562|Error-Ambiguity Decomposition|误差－分歧分解||[1]||
+AITD-00563|Estimation Error|估计误差||[1]||
+AITD-00564|Estimation Of Mathematical Expectation|数学期望估计||[1]||
+AITD-00565|Estimator|估计/估计量||[1]||
+AITD-00566|Euclidean Distance|欧氏距离||[1]||
+AITD-00567|Euclidean Norm|欧几里得范数||[1]||
+AITD-00568|Euclidean Space|欧氏空间||[1]||
+AITD-00569|Euler-Lagrange Equation|欧拉-拉格朗日方程||[1]||
+AITD-00570|Evaluation Criterion|评价准则||[1]||
+AITD-00571|Evidence|证据||[1]||
+AITD-00572|Evidence Lower Bound|证据下界|ELBO|[1]||
+AITD-00573|Evolution|演化||[1]||
+AITD-00574|Evolutionary Computation|演化计算||[1]||
+AITD-00575|Exact|确切的||[1]||
+AITD-00576|Exact Inference|精确推断||[1]||
+AITD-00577|Example|样例||[1]||
+AITD-00578|Excess Error|额外误差||[1]||
+AITD-00579|Exchangeable|可交换的||[1]||
+AITD-00580|Expectation|期望||[1]||
+AITD-00581|Expectation Maximization Algorithm|期望极大算法||[1]||
+AITD-00582|Expectation Maximization|期望最大化|EM|[1]||
+AITD-00583|Expectation Step|E步||[1]||
+AITD-00584|Expected Error|期望错误||[1]||
+AITD-00585|Expected Loss|期望损失||[1]||
+AITD-00586|Expected Return|期望回报||[1]||
+AITD-00587|Expected Risk|期望风险||[1]||
+AITD-00588|Expected Value|期望值||[1]||
+AITD-00589|Experience|经验||[1]||
+AITD-00590|Experience Replay|经验回放||[1]||
+AITD-00591|Expert Network|专家网络||[1]||
+AITD-00592|Expert System|专家系统||[1]||
+AITD-00593|Explaining Away|相消解释||[1]||
+AITD-00594|Explaining Away Effect|相消解释作用||[1]||
+AITD-00595|Explanatory Factort|解释因子||[1]||
+AITD-00596|Explicit Density Model|显式密度模型||[1]||
+AITD-00597|Exploding Gradient|梯度爆炸||[1]||
+AITD-00598|Exploitation|利用||[1]||
+AITD-00599|Exploration|探索||[1]||
+AITD-00600|Exploration-Exploitation Dilemma|探索-利用窘境||[1]||
+AITD-00601|Exponential Decay|指数衰减||[1]||
+AITD-00602|Exponential Distribution|指数分布||[1]||
+AITD-00603|Exponential Linear Unit|指数线性单元|ELU|[1]||
+AITD-00604|Exponential Loss|指数损失||[1]||
+AITD-00605|Exponential Loss Function|指数损失函数||[1]||
+AITD-00606|Exponentially Weighted Moving Average|指数加权移动平均||[1]||
+AITD-00607|Exposure Bias|曝光偏差||[1]||
+AITD-00608|External Memory|外部记忆||[1]||
+AITD-00609|Extreme Learning Machine|超限学习机|ELM|[[1]](https://www.jiqizhixin.com/articles/2016-09-30-3)||

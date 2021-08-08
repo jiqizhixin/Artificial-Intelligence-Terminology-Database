@@ -1,61 +1,140 @@
 # Letter D
 [*Return*](https://github.com/SyncedAI00/Artificial-Intelligence-Terminology/blob/master/README.md)
-
-英文/缩写|汉语|来源&扩展
----|---|---
-Data generating distribution|数据生成分布|[1]
-Data mining	|数据挖掘|[1]
-Data parallelism|数据并行|[1]
-Data set	|数据集|[[1]](https://www.jiqizhixin.com/articles/2018-01-04-6)
-Data Wrangling|数据整理|[[1]](https://www.jiqizhixin.com/articles/2017-08-25-5)
-Dataset augmentation|数据集增强|[1]
-Debugging strategy|调试策略|[1]
-Decision Boundary	|决策边界|[1]
-Decision stump|	决策树桩|[1]
-Decision tree	|决策树／判定树|[[1]](https://www.jiqizhixin.com/articles/2018-01-10)/[[2]](https://www.jiqizhixin.com/articles/2017-11-29-5)
-Deconvolutional Network|解卷积网络|[[1]](https://www.jiqizhixin.com/articles/2017-09-14)
-Deduction	|演绎|[1]
-Deep Belief Network	|深度信念网络|[1]
-Deep Boltzmann Machine|深度玻尔兹曼机|[1]
-Deep circuit|深度回路|[1]
-Deep Convolutional Generative Adversarial Network/DCGAN|	深度卷积生成对抗网络|[1]
-Deep generative model|深度生成模型|[1]
-Deep learning|	深度学习|[[1]](https://www.jiqizhixin.com/articles/2018-01-17-2)/[[2]](https://www.jiqizhixin.com/articles/2018-01-15-4)/[[3]](https://www.jiqizhixin.com/articles/2018-01-15-2)
-Deep neural network/DNN|	深度神经网络|[[1]](https://www.jiqizhixin.com/articles/2018-01-15-2)/[[2]](https://www.jiqizhixin.com/articles/2018-01-10)/[[3]](https://www.jiqizhixin.com/articles/2018-01-07-2)
-Deep Q-Learning	|深度 Q 学习|[[1]](https://www.jiqizhixin.com/articles/2017-10-10-2)/[[2]](https://www.jiqizhixin.com/articles/2017-08-22-8)
-Deep Q-Network	|深度 Q 网络|[1]
-Denoising autoencoder|去噪自编码器|[1]
-Denoising score matching|去噪得分匹配|[1]
-Density estimation 	|密度估计|[1]
-Density-based clustering|密度聚类|[1]
-Detailed balance|细致平衡|[1]
-Determinant|行列式|[1]
-Deterministic|确定性|
-Diagonal matrix|对角矩阵|[1]
-Differentiable neural computer|	可微分神经计算机|[[1]](https://www.jiqizhixin.com/articles/2017-04-11-7)
-Diﬀerential entropy|微分熵|[1]
-Diﬀerential equation|微分方程|[1]
-Dimensionality reduction algorithm|	降维算法|[[1]](https://www.jiqizhixin.com/articles/2017-08-31-2)
-Directed edge|有向边|[1]
-Directed graphical model|有向图模型|[1]
-Directional derivative|方向导数|[1]
-Dirichlet distribution|狄利克雷分布|[1]
-Disagreement measure	|不合度量|[1]
-Discriminative model	|判别模型|[1]
-Discriminator|	判别器|[1]
-Discriminator network|判别器网络|[1]
-Distance measure	|距离度量|[1]
-Distance metric learning|距离度量学习|[1]
-Distribution|	分布|[[1]](https://www.jiqizhixin.com/articles/2018-01-09)
-Divergence|	散度|[1]
-Diversity measure	|多样性度量／差异性度量|[1]
-Domain adaption	|领域自适应|[1]
-Dominant strategy|占优策略|[1]
-Double backprop|双反向传播|[1]
-Doubly block circulant matrix|双重分块循环矩阵|[1]
-Downsampling	|下采样|[1]
-D-separation/Directed separation|有向分离|[1]
-Dual problem |	对偶问题|[1]
-Dummy node	|哑结点|[1]
-Dynamic Fusion	|动态融合|[1]
-Dynamic programming|动态规划|[1]
+索引编号|英文术语|中文翻译|常用缩写|来源&扩展|备注
+---|---|---|---|---|---
+AITD-00369|Damping|衰减||[1]||
+AITD-00370|Damping Factor|阻尼因子||[1]||
+AITD-00371|Data|数据||[1]||
+AITD-00372|Data Augmentation|数据增强||[1]||
+AITD-00373|Data Generating Distribution|数据生成分布||[1]||
+AITD-00374|Data Generating Process|数据生成过程||[1]||
+AITD-00375|Data Instance|数据样本||[1]||
+AITD-00376|Data Mining|数据挖掘||[1]||
+AITD-00377|Data Parallelism|数据并行||[1]||
+AITD-00378|Data Point|数据点||[1]||
+AITD-00379|Data Preprocessing|数据预处理||[1]||
+AITD-00380|Data Set|数据集||[[1]](https://www.jiqizhixin.com/articles/2018-01-04-6)||
+AITD-00381|Data Wrangling|数据整理||[[1]](https://www.jiqizhixin.com/articles/2017-08-25-5)||
+AITD-00382|Dataset Augmentation|数据集增强||[1]||
+AITD-00383|Davidon-Fletcher-Powell|DFP||[1]||
+AITD-00384|Debugging Strategy|调试策略||[1]||
+AITD-00385|Decision Boundary|决策边界||[1]||
+AITD-00386|Decision Function|决策函数||[1]||
+AITD-00387|Decision Stump|决策树桩||[1]||
+AITD-00388|Decision Surface|决策平面||[1]||
+AITD-00389|Decision Tree|决策树||[[1]](https://www.jiqizhixin.com/articles/2018-01-10)[[2]](https://www.jiqizhixin.com/articles/2017-11-29-5)||
+AITD-00390|Decoder|解码器||[1]||
+AITD-00391|Decoding|解码||[1]||
+AITD-00392|Decompose|分解||[1]||
+AITD-00393|Deconvolution|反卷积||[1]||
+AITD-00394|Deconvolutional Network|反卷积网络||[[1]](https://www.jiqizhixin.com/articles/2017-09-14)||
+AITD-00395|Deduction|演绎||[1]||
+AITD-00396|Deep Belief Network|深度信念网络|DBN|[1]||
+AITD-00397|Deep Boltzmann Machine|深度玻尔兹曼机|DBM|[1]||
+AITD-00398|Deep Circuit|深度回路||[1]||
+AITD-00399|Deep Convolutional Generative Adversarial Network|深度卷积生成对抗网络|DCGAN|[1]||
+AITD-00400|Deep Feedforward Network|深度前馈网络||[1]||
+AITD-00401|Deep Generative Model|深度生成模型||[1]||
+AITD-00402|Deep Learning|深度学习|DL|[[1]](https://www.jiqizhixin.com/articles/2018-01-17-2)[[2]](https://www.jiqizhixin.com/articles/2018-01-15-4)[[3]](https://www.jiqizhixin.com/articles/2018-01-15-2)||
+AITD-00403|Deep Model|深度模型||[1]||
+AITD-00404|Deep Network|深度网络||[1]||
+AITD-00405|Deep Neural Network|深度神经网络|DNN|[[1]](https://www.jiqizhixin.com/articles/2018-01-15-2)[[2]](https://www.jiqizhixin.com/articles/2018-01-10)[[3]](https://www.jiqizhixin.com/articles/2018-01-07-2)||
+AITD-00406|Deep Q-Learning|深度 Q 学习||[[1]](https://www.jiqizhixin.com/articles/2017-10-10-2)[[2]](https://www.jiqizhixin.com/articles/2017-08-22-8)||
+AITD-00407|Deep Q-Network|深度Q网络|DQN|[1]||
+AITD-00408|Deep Reinforcement Learning|深度强化学习||[1]||
+AITD-00409|Deep Sequence Model|深度序列模型||[1]||
+AITD-00410|Default Rule|默认规则||[1]||
+AITD-00411|Definite Integral|定积分||[1]||
+AITD-00412|Degree Of Belief|信任度||[1]||
+AITD-00413|Delta-Bar-Delta|Delta-Bar-Delta||[1]||
+AITD-00414|Denoising|去噪||[1]||
+AITD-00415|Denoising Autoencoder|去噪自编码器||[1]||
+AITD-00416|Denoising Score Matching|去躁分数匹配||[1]||
+AITD-00417|Denominator Layout|分母布局||[1]||
+AITD-00418|Dense|稠密||[1]||
+AITD-00419|Density Estimation|密度估计||[1]||
+AITD-00420|Density-Based Clustering|密度聚类||[1]||
+AITD-00421|Dependency|依赖||[1]||
+AITD-00422|Depth|深度||[1]||
+AITD-00423|Derivative|导数||[1]||
+AITD-00424|Description|描述||[1]||
+AITD-00425|Design Matrix|设计矩阵||[1]||
+AITD-00426|Detailed Balance|细致平衡||[1]||
+AITD-00427|Detailed Balance Equation|细致平衡方程||[1]||
+AITD-00428|Detector Stage|探测级||[1]||
+AITD-00429|Determinant|行列式||[1]||
+AITD-00430|Deterministic|确定性||[1]||
+AITD-00431|Deterministic Model|确定性模型||[1]||
+AITD-00432|Deterministic Policy|确定性策略||[1]||
+AITD-00433|Development Set|开发集||[1]||
+AITD-00434|Diagonal Matrix|对角矩阵||[1]||
+AITD-00435|Diameter|直径||[1]||
+AITD-00436|Dictionary|字典||[1]||
+AITD-00437|Dictionary Learning|字典学习||[1]||
+AITD-00438|Differentiable Function|可微函数||[1]||
+AITD-00439|Differentiable Neural Computer|可微分神经计算机||[[1]](https://www.jiqizhixin.com/articles/2017-04-11-7)||
+AITD-00440|Differential Entropy|微分熵||[1]||
+AITD-00441|Differential Equation|微分方程||[1]||
+AITD-00442|Differentiation|微分||[1]||
+AITD-00443|Dilated Convolution|膨胀卷积||[1]||
+AITD-00444|Dimension|维度||[1]||
+AITD-00445|Dimension Reduction|降维||[1]||
+AITD-00446|Dimensionality Reduction Algorithm|降维算法||[[1]](https://www.jiqizhixin.com/articles/2017-08-31-2)||
+AITD-00447|Dirac Delta Function|Dirac Delta函数||[1]||
+AITD-00448|Dirac Distribution|Dirac分布||[1]||
+AITD-00449|Directed|有向||[1]||
+AITD-00450|Directed Acyclic Graph|有向非循环图|DAG|[1]||
+AITD-00451|Directed Edge|有向边||[1]||
+AITD-00452|Directed Graph|有向图||[1]||
+AITD-00453|Directed Graphical Model|有向图模型||[1]||
+AITD-00454|Directed Model|有向模型||[1]||
+AITD-00455|Directed Separation|有向分离||[1]||
+AITD-00456|Directional Derivative|方向导数||[1]||
+AITD-00457|Dirichlet Distribution|狄利克雷分布||[1]||
+AITD-00458|Disagreement Measure|不合度量||[1]||
+AITD-00459|Disagreement-Based Methods|基于分歧的方法||[1]||
+AITD-00460|Discount Factor|衰减系数||[1]||
+AITD-00461|Discounted Return|折扣回报||[1]||
+AITD-00462|Discrete Optimization|离散优化||[1]||
+AITD-00463|Discriminant Function|判别函数||[1]||
+AITD-00464|Discriminative Approach|判别方法||[1]||
+AITD-00465|Discriminative Model|判别式模型||[1]||
+AITD-00466|Discriminative RBM|判别RBM||[1]||
+AITD-00467|Discriminator|判别器||[1]||
+AITD-00468|Discriminator Network|判别网络||[1]||
+AITD-00469|Distance|距离||[1]||
+AITD-00470|Distance Measure|距离度量||[1]||
+AITD-00471|Distance Metric Learning|距离度量学习||[1]||
+AITD-00472|Distributed Representation|分布式表示||[1]||
+AITD-00473|Distribution|分布||[[1]](https://www.jiqizhixin.com/articles/2018-01-09)||
+AITD-00474|Diverge|发散||[1]||
+AITD-00475|Divergence|散度||[1]||
+AITD-00476|Diversity|多样性||[1]||
+AITD-00477|Diversity Measure|多样性度量/差异性度量||[1]||
+AITD-00478|Divide-And-Conquer|分而治之||[1]||
+AITD-00479|Divisive|分裂||[1]||
+AITD-00480|Domain|领域||[1]||
+AITD-00481|Domain Adaptation|领域自适应||[1]||
+AITD-00482|Dominant Eigenvalue|主特征值||[1]||
+AITD-00483|Dominant Eigenvector|主特征向量||[1]||
+AITD-00484|Dominant Strategy|主特征值||[1]||
+AITD-00485|Dominant Strategy|占优策略||[1]||
+AITD-00486|Dot Product|点积||[1]||
+AITD-00487|Double Backprop|双反向传播||[1]||
+AITD-00488|Doubly Block Circulant Matrix|双重分块循环矩阵||[1]||
+AITD-00489|Down Sampling|下采样||[1]||
+AITD-00490|Downstream Task|下游任务||[1]||
+AITD-00491|Dropout|暂退法||[1]||
+AITD-00492|Dropout Boosting|暂退Boosting||[1]||
+AITD-00493|Dropout Mask|暂退掩码||[1]||
+AITD-00494|Dropout Method|暂退法||[1]||
+AITD-00495|Dual Algorithm|对偶算法||[1]||
+AITD-00496|Dual Problem|对偶问题||[1]||
+AITD-00497|Dummy Node|哑结点||[1]||
+AITD-00498|Dying ReLU Problem|死亡ReLU问题||[1]||
+AITD-00499|Dynamic Bayesian Network|动态贝叶斯网络||[1]||
+AITD-00500|Dynamic Computational Graph|动态计算图||[1]||
+AITD-00501|Dynamic Fusion|动态融合||[1]||
+AITD-00502|Dynamic Programming|动态规划||[1]||
+AITD-00503|Dynamic Structure|动态结构||[1]||
+AITD-00504|Dynamical System|动力系统||[1]||
