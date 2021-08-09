@@ -2,6 +2,8 @@
 
 **A comprehensive mapping database of English to Chinese technical vocabulary in the artificial intelligence domain.**
 
+![](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology/blob/master/assets/logo.png)
+
 本词汇库目前拥有专业词汇约 2094 个、专项领域篇 1 篇，主要为人工智能领域基础概念和术语。
 
 本词汇库前两版主要是将机器之心在编译技术文章和论文过程中所遇到的专业术语记录下来，希望有助于大家查阅和翻译，同时也希望大家能积极指出我们编译的不当之处，共同推进知识高效、广泛地传播。
