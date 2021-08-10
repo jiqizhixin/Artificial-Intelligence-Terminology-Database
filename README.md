@@ -20,7 +20,7 @@
 
 ##
 
-### [GitBook](https://jiqizhixin.gitbook.io/artificial-intelligence-terminology/)
+### [GitBook](https://jiqizhixin.gitbook.io/artificial-intelligence-terminology-database/)
 
 # #
 
