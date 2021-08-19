@@ -349,7 +349,7 @@ AITD-00939|Kernel Trick|核技巧||[1]|
 AITD-00941|Kernelized Linear Discriminant Analysis|核线性判别分析|KLDA |[1]|
 AITD-00944|KL Divergence|KL散度||[1]|
 AITD-00953|L-BFGS|L-BFGS||[1]|
-AITD-00954|Label|标签||[1]|
+AITD-00954|Label|标签/标记||[1]|
 AITD-00957|Label Space|标记空间||[1]|
 AITD-00960|Lagrange Duality|拉格朗日对偶性||[1]|
 AITD-00962|Lagrange Multiplier|拉格朗日乘子||[1]|
