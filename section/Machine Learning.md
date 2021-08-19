@@ -55,7 +55,7 @@ AITD-00127|Bayesian Learning|贝叶斯学习||[1]|
 AITD-00129|Bayesian Network|贝叶斯网/贝叶斯网络||[1]|Network翻译为网或网络皆可，只要统一翻译成网或者统一翻译成网络即可
 AITD-00130|Bayesian Optimization|贝叶斯优化||[[1]](https://www.jiqizhixin.com/articles/2017-11-28)|
 AITD-00133|Beam Search|束搜索||[[1]](https://www.jiqizhixin.com/articles/2018-01-31-3)|
-AITD-00134|Bechmark|基准||[1]|
+AITD-00134|Benchmark|基准||[1]|
 AITD-00135|Belief Network|信念网/信念网络|BN|[1]|Network翻译为网或网络皆可，只要统一翻译成网或者统一翻译成网络即可
 AITD-00136|Belief Propagation|信念传播|BP|[1]|
 AITD-00137|Bellman Equation|贝尔曼方程||[1]|
