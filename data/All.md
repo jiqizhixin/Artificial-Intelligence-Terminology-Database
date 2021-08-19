@@ -956,7 +956,7 @@ AITD-00950|Knowledge Representation|知识表征||[1]||
 AITD-00951|Kronecker Product|Kronecker积||[1]||
 AITD-00952|Krylov Method|Krylov方法||[1]||
 AITD-00953|L-BFGS|L-BFGS||[1]||
-AITD-00954|Label|标签||[1]||
+AITD-00954|Label|标签/标记||[1]||
 AITD-00955|Label Propagation|标记传播||[1]||
 AITD-00956|Label Smoothing|标签平滑||[1]||
 AITD-00957|Label Space|标记空间||[1]||
