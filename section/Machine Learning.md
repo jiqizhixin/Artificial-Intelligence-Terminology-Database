@@ -193,7 +193,6 @@ AITD-00475|Divergence|散度||[1]|
 AITD-00476|Diversity|多样性||[1]|
 AITD-00477|Diversity Measure|多样性度量/差异性度量||[1]|
 AITD-00481|Domain Adaptation|领域自适应||[1]|
-AITD-00484|Dominant Strategy|主特征值||[1]|
 AITD-00485|Dominant Strategy|占优策略||[1]|
 AITD-00489|Down Sampling|下采样||[1]|
 AITD-00491|Dropout|暂退法||[1]|
