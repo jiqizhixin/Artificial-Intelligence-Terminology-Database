@@ -1,4 +1,4 @@
-# Artificial-Intelligence-Terminology
+# Artificial-Intelligence-Terminology-Database
 
 **A comprehensive mapping database of English to Chinese technical vocabulary in the artificial intelligence domain.**
 
