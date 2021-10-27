@@ -1,5 +1,5 @@
-# Letter All
-[*Return*](https://github.com/SyncedAI00/Artificial-Intelligence-Terminology/blob/master/README.md)
+# Letter All|
+[*Return*](https://github.com/SyncedAI00/Artificial-Intelligence-Terminology/blob/master/README.md)|
 索引编号|英文术语|中文翻译|常用缩写|来源&扩展|备注
 ---|---|---|---|---|---
 AITD-00000|0-1 Loss Function|0-1损失函数||[1]|
@@ -1588,7 +1588,7 @@ AITD-01583|Reference Model|参考模型||[1]|
 AITD-01584|Region|区域||[1]|
 AITD-01585|Regression|回归||[[1]](https://www.jiqizhixin.com/articles/2017-12-21-13)|
 AITD-01586|Regularization||||
-|正则化||[[1]](https://www.jiqizhixin.com/articles/2017-12-20)||
+正则化||[[1]](https://www.jiqizhixin.com/articles/2017-12-20)|||
 AITD-01587|Regularizer|正则化项||[1]|
 AITD-01588|Reinforcement Learning|强化学习|RL|[[1]](https://www.jiqizhixin.com/articles/2018-01-17-3)[[2]](https://www.jiqizhixin.com/articles/2017-12-28-6)|
 AITD-01589|Rejection Sampling|拒绝采样||[1]|
@@ -1911,7 +1911,7 @@ AITD-01905|Time Homogenous Markov Chain|时间齐次马尔可夫链||[1]|
 AITD-01906|Time Step|时间步||[1]|
 AITD-01907|Toeplitz Matrix|Toeplitz矩阵||[1]|
 AITD-01908|Token|词元||[1]|
-AITD-01909|Token|词元||[1]|
+AITD-01909|Tokenize|词元化||[1]|
 AITD-01910|Tokenization|词元化||[1]|
 AITD-01911|Tokenizer|词元分析器||[1]|
 AITD-01912|Tolerance|容差||[1]|
