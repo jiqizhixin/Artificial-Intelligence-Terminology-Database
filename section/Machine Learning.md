@@ -660,7 +660,7 @@ AITD-01904|Time Delay Neural Network|时延神经网络|TDNN|[1]|
 AITD-01905|Time Homogenous Markov Chain|时间齐次马尔可夫链||[1]|
 AITD-01906|Time Step|时间步||[1]|
 AITD-01908|Token|词元||[1]|
-AITD-01909|Token|词元||[1]|
+AITD-01909|Tokenize|词元化||[1]|
 AITD-01910|Tokenization|词元化||[1]|
 AITD-01911|Tokenizer|词元分析器||[1]|
 AITD-01915|Topic Model|话题模型||[1]|
