@@ -3,7 +3,7 @@
 索引编号|英文术语|中文翻译|常用缩写|来源&扩展|备注
 ---|---|---|---|---|---
 AITD-00953|L-BFGS|L-BFGS||[1]||
-AITD-00954|Label|标签||[1]||
+AITD-00954|Label|标签/标记||[1]||
 AITD-00955|Label Propagation|标记传播||[1]||
 AITD-00956|Label Smoothing|标签平滑||[1]||
 AITD-00957|Label Space|标记空间||[1]||

@@ -55,7 +55,7 @@ AITD-00127|Bayesian Learning|贝叶斯学习||[1]|
 AITD-00129|Bayesian Network|贝叶斯网/贝叶斯网络||[1]|Network翻译为网或网络皆可，只要统一翻译成网或者统一翻译成网络即可
 AITD-00130|Bayesian Optimization|贝叶斯优化||[[1]](https://www.jiqizhixin.com/articles/2017-11-28)|
 AITD-00133|Beam Search|束搜索||[[1]](https://www.jiqizhixin.com/articles/2018-01-31-3)|
-AITD-00134|Bechmark|基准||[1]|
+AITD-00134|Benchmark|基准||[1]|
 AITD-00135|Belief Network|信念网/信念网络|BN|[1]|Network翻译为网或网络皆可，只要统一翻译成网或者统一翻译成网络即可
 AITD-00136|Belief Propagation|信念传播|BP|[1]|
 AITD-00137|Bellman Equation|贝尔曼方程||[1]|
@@ -193,7 +193,6 @@ AITD-00475|Divergence|散度||[1]|
 AITD-00476|Diversity|多样性||[1]|
 AITD-00477|Diversity Measure|多样性度量/差异性度量||[1]|
 AITD-00481|Domain Adaptation|领域自适应||[1]|
-AITD-00484|Dominant Strategy|主特征值||[1]|
 AITD-00485|Dominant Strategy|占优策略||[1]|
 AITD-00489|Down Sampling|下采样||[1]|
 AITD-00491|Dropout|暂退法||[1]|
@@ -349,7 +348,7 @@ AITD-00939|Kernel Trick|核技巧||[1]|
 AITD-00941|Kernelized Linear Discriminant Analysis|核线性判别分析|KLDA |[1]|
 AITD-00944|KL Divergence|KL散度||[1]|
 AITD-00953|L-BFGS|L-BFGS||[1]|
-AITD-00954|Label|标签||[1]|
+AITD-00954|Label|标签/标记||[1]|
 AITD-00957|Label Space|标记空间||[1]|
 AITD-00960|Lagrange Duality|拉格朗日对偶性||[1]|
 AITD-00962|Lagrange Multiplier|拉格朗日乘子||[1]|
@@ -661,7 +660,7 @@ AITD-01904|Time Delay Neural Network|时延神经网络|TDNN|[1]|
 AITD-01905|Time Homogenous Markov Chain|时间齐次马尔可夫链||[1]|
 AITD-01906|Time Step|时间步||[1]|
 AITD-01908|Token|词元||[1]|
-AITD-01909|Token|词元||[1]|
+AITD-01909|Tokenize|词元化||[1]|
 AITD-01910|Tokenization|词元化||[1]|
 AITD-01911|Tokenizer|词元分析器||[1]|
 AITD-01915|Topic Model|话题模型||[1]|

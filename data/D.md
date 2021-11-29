@@ -1,7 +1,7 @@
-# Letter D
-[*Return*](https://github.com/SyncedAI00/Artificial-Intelligence-Terminology/blob/master/README.md)
-索引编号|英文术语|中文翻译|常用缩写|来源&扩展|备注
----|---|---|---|---|---
+# Letter D|
+[*Return*](https://github.com/SyncedAI00/Artificial-Intelligence-Terminology/blob/master/README.md)|
+索引编号|英文术语|中文翻译|常用缩写|来源&扩展|备注|
+---|---|---|---|---|---|
 AITD-00369|Damping|衰减||[1]||
 AITD-00370|Damping Factor|阻尼因子||[1]||
 AITD-00371|Data|数据||[1]||
@@ -117,7 +117,6 @@ AITD-00480|Domain|领域||[1]||
 AITD-00481|Domain Adaptation|领域自适应||[1]||
 AITD-00482|Dominant Eigenvalue|主特征值||[1]||
 AITD-00483|Dominant Eigenvector|主特征向量||[1]||
-AITD-00484|Dominant Strategy|主特征值||[1]||
 AITD-00485|Dominant Strategy|占优策略||[1]||
 AITD-00486|Dot Product|点积||[1]||
 AITD-00487|Double Backprop|双反向传播||[1]||
