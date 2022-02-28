@@ -16,15 +16,15 @@ AITD-00702|Gated Recurrent Unit|门控循环单元|GRU|[1]||
 AITD-00703|Gated RNN|门控RNN||[1]||
 AITD-00704|Gater|选通器||[1]||
 AITD-00705|Gating Mechanism|门控机制||[1]||
-AITD-00706|Gaussian Distribution|高斯分布||[1]||
+AITD-00706|Gaussian Distribution|高斯分布||[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00311/978-1-78801-789-3)||
 AITD-00707|Gaussian Error Linear Unit|高斯误差线性单元|GELU|[1]||
 AITD-00708|Gaussian Kernel|高斯核||[1]||
-AITD-00709|Gaussian Kernel Function|高斯核函数||[1]||
+AITD-00709|Gaussian Kernel Function|高斯核函数||[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00076/978-1-78801-789-3)||
 AITD-00710|Gaussian Mixture Model|高斯混合模型|GMM|[1]||
-AITD-00711|Gaussian Mixtures|高斯混合体||[1]||
+AITD-00711|Gaussian Mixtures|高斯混合（模型）| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00311/978-1-78801-789-3)| |
 AITD-00712|Gaussian Output Distribution|高斯输出分布||[1]||
-AITD-00713|Gaussian Process|高斯过程||[1]||
-AITD-00714|Gaussian Process Regression|高斯过程回归||[1]||
+AITD-00713|Gaussian Process|高斯过程|GP|[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00311/978-1-78801-789-3)[[2]](https://www.nature.com/articles/s41557-021-00716-z)||
+AITD-00714|Gaussian Process Regression|高斯过程回归|GPR|[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00280/978-1-78801-789-3)| |
 AITD-00715|Gaussian RBM|高斯RBM||[1]||
 AITD-00716|Gaussian-Bernoulli RBM|高斯-伯努利RBM||[1]||
 AITD-00717|General Problem Solving|通用问题求解||[1]||
@@ -47,14 +47,14 @@ AITD-00733|Generative Adversarial Framework|生成式对抗框架||[1]||
 AITD-00734|Generative Adversarial Network|生成对抗网络||[[1]](https://www.jiqizhixin.com/articles/2017-12-26-4)[[2]](https://www.jiqizhixin.com/articles/2018-01-08-5)[[3]](https://www.jiqizhixin.com/articles/2017-12-13-2)||
 AITD-00735|Generative Approach|生成方法||[1]||
 AITD-00736|Generative Model|生成式模型||[[1]](https://www.jiqizhixin.com/articles/2017-12-19-7)[[2]](https://www.jiqizhixin.com/articles/2017-12-11-6)[[3]](https://www.jiqizhixin.com/articles/2017-12-04-5)||
-AITD-00737|Generative Modeling|生成式建模||[1]||
+AITD-00737|Generative Modeling|生成式建模| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00372/978-1-78801-789-3)|机器学习|
 AITD-00738|Generative Moment Matching Network|生成矩匹配网络||[1]||
 AITD-00739|Generative Pre-Training|生成式预训练|GPT|[1]||
 AITD-00740|Generative Stochastic Network|生成随机网络||[1]||
 AITD-00741|Generative Weight|生成权重||[1]||
 AITD-00742|Generator|生成器||[1]||
 AITD-00743|Generator Network|生成器网络||[1]||
-AITD-00744|Genetic Algorithm|遗传算法|GA|[[1]](https://www.jiqizhixin.com/articles/2018-01-17-3)[[2]](https://www.jiqizhixin.com/articles/2017-12-22)[[3]](https://www.jiqizhixin.com/articles/2017-11-12-2)||
+AITD-00744|Genetic Algorithm|遗传算法|GA|[[1]](https://www.jiqizhixin.com/articles/2018-01-17-3)[[2]](https://www.jiqizhixin.com/articles/2017-12-22)[[3]](https://www.jiqizhixin.com/articles/2017-11-12-2)[[4]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00109/978-1-78801-789-3)[[5]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00488/978-1-78801-789-3)[[6]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00280/978-1-78801-789-3)|机器学习|
 AITD-00745|Geometric Margin|几何间隔||[1]||
 AITD-00746|Giant Magnetoresistance|巨磁阻||[1]||
 AITD-00747|Gibbs Distribution|吉布斯分布||[1]||
@@ -73,7 +73,7 @@ AITD-00759|Gradient Ascent Method|梯度上升法||[1]||
 AITD-00760|Gradient Boosting|梯度提升||[1]||
 AITD-00761|Gradient Boosting Tree|梯度提升树||[1]||
 AITD-00762|Gradient Clipping|梯度截断||[1]||
-AITD-00763|Gradient Descent|梯度下降||[1]||
+AITD-00763|Gradient Descent|梯度下降||[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00016/978-1-78801-789-3)[[2]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00076/978-1-78801-789-3)[[3]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00169/978-1-78801-789-3)|机器学习|
 AITD-00764|Gradient Descent In One-Dimensional Space|一维梯度下降||[1]||
 AITD-00765|Gradient Descent Method|梯度下降法||[1]||
 AITD-00766|Gradient Energy Distribution|梯度能量分布||[1]||
@@ -98,7 +98,28 @@ AITD-00784|Greedy Layer-Wise Unsupervised Pretraining|贪心逐层无监督预�
 AITD-00785|Greedy Search|贪心搜索||[1]||
 AITD-00786|Greedy Supervised Pretraining|贪心监督预训练||[1]||
 AITD-00787|Greedy Unsupervised Pretraining|贪心无监督预训练||[1]||
-AITD-00788|Grid Search|网格搜索||[1]||
+AITD-00788|Grid Search|网格搜索||[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00424/978-1-78801-789-3)||
 AITD-00789|Grid World|网格世界||[1]||
-AITD-00790|Ground Truth|真实值||[1]||
+AITD-00790|Ground Truth|真实值||[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00169/978-1-78801-789-3)||
 AITD-00791|Growth Function|增长函数||[1]||
+AITD-02256|Ga-Based Approaches|基于遗传算法的方法| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00280/978-1-78801-789-3)| |
+AITD-02257|Garbage In, Garbage Out|无用数据入、无用数据出|GIGO|[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00037/978-1-78801-789-3)| |
+AITD-02258|Gas-Phase Networks|气相网络| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00195/978-1-83916-023-3)| |
+AITD-02259|Gaussian Kernels|高斯核| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00076/978-1-78801-789-3)| |
+AITD-02260|Gaussian-Type Structure Descriptors|高斯型结构描述符|GTSD|[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00488/978-1-78801-789-3)| |
+AITD-02261|General Intelligence|通用智能|GI|[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00016/978-1-78801-789-3)| |
+AITD-02262|Generalized Gradient Approximation|广义梯度近似|GGA|[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00424/978-1-78801-789-3)| |
+AITD-02263|Generative Adversarial Networks|生成对抗网络|GAN|[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00450/978-1-78801-789-3)[[2]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00280/978-1-78801-789-3)|机器学习|
+AITD-02264|Gradient Boosting Decision Tree|梯度提升决策树|GBDT|[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00311/978-1-78801-789-3)| |
+AITD-02265|Gradient-Based|基于梯度的| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00169/978-1-78801-789-3)| |
+AITD-02266|Grain-Surface Networks|粒面网络| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00195/978-1-83916-023-3)| |
+AITD-02267|Graph Convolutional|图卷积|GC|[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00372/978-1-78801-789-3)| |
+AITD-02268|Graph Models|图模型| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00372/978-1-78801-789-3)| |
+AITD-02269|Graph Neural Networks|图神经网络|GNNS|[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00372/978-1-78801-789-3)| |
+AITD-02270|Graph-Based|基于图形| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00169/978-1-78801-789-3)| |
+AITD-02271|Graph-Based Models|基于图的模型| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00169/978-1-78801-789-3)| |
+AITD-02272|Graph-Based Neural Networks|基于图的神经网络| |[[1]](https://www.nature.com/articles/s41557-021-00716-z)| |
+AITD-02273|Graph-Based Representation|基于图的表示|GB-GA|[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00280/978-1-78801-789-3)[[2]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00136/978-1-78801-789-3)| |
+AITD-02274|Graph-Convolutional Neural Network|图卷积神经网络| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00280/978-1-78801-789-3)[[2]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00450/978-1-78801-789-3)| |
+AITD-02275|Graphics Processing Units|图形处理器| |[[1]](https://www.nature.com/articles/s41557-021-00716-z)| |
+AITD-02276|Gravimetric Polymerization Degree|比重聚合度| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00227/978-1-78801-789-3)| |

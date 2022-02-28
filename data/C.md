@@ -30,8 +30,8 @@ AITD-00214|Class|类别||[1]||
 AITD-00215|Class Label|类标记||[1]||
 AITD-00216|Class-Conditional Probability|类条件概率||[1]||
 AITD-00217|Class-Imbalance|类别不平衡||[1]||
-AITD-00218|Classification|分类||[1]||
-AITD-00219|Classification And Regression Tree|分类与回归树|CART|[1]||
+AITD-00218|Classification|分类||[[1]](https://www.nature.com/articles/s41557-021-00716-z)[[2]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00016/978-1-78801-789-3)||
+AITD-00219|Classification And Regression Tree|分类与回归树|CART|[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00424/978-1-78801-789-3)||
 AITD-00220|Classifier|分类器||[1]||
 AITD-00221|Clip Gradient|梯度截断||[1]||
 AITD-00222|Clipping The Gradient|截断梯度||[1]||
@@ -40,7 +40,7 @@ AITD-00224|Clique Potential|团势能||[1]||
 AITD-00225|Clockwork RNN|时钟循环神经网络||[1]||
 AITD-00226|Closed Form Solution|闭式解||[1]||
 AITD-00227|Closed-Form|闭式||[1]||
-AITD-00228|Cluster|簇||[1]||
+AITD-00228|Cluster|簇||[[1]](https://www.nature.com/articles/s41557-021-00716-z)||
 AITD-00229|Cluster Analysis|聚类分析||[1]||
 AITD-00230|Cluster Assumption|聚类假设||[1]||
 AITD-00231|Clustering|聚类||[[1]](https://www.jiqizhixin.com/articles/2018-01-09)||
@@ -76,7 +76,7 @@ AITD-00260|Computation Cost|计算代价||[1]||
 AITD-00261|Computation Graph|计算图||[1]||
 AITD-00262|Computational Learning Theory|计算学习理论||[1]||
 AITD-00263|Computational Linguistics|计算语言学||[1]||
-AITD-00264|Computer Vision|计算机视觉||[1]||
+AITD-00264|Computer Vision|计算机视觉| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00001/978-1-78801-789-3)| |
 AITD-00265|Concatenate|连结||[1]||
 AITD-00266|Concept Class|概念类||[1]||
 AITD-00267|Concept Drift|概念漂移||[1]||
@@ -97,11 +97,11 @@ AITD-00281|Conditionally Independent|条件独立的||[1]||
 AITD-00282|Conference On Neural Information Processing Systems|国际神经信息处理系统会议|NeurIPS|[[1]](https://www.jiqizhixin.com/articles/2017-12-18-9)||
 AITD-00283|Confidence|置信度||[1]||
 AITD-00284|Conflict Resolution|冲突消解||[1]||
-AITD-00285|Confusion Matrix|混淆矩阵||[1]||
+AITD-00285|Confusion Matrix|混淆矩阵||[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00016/978-1-78801-789-3)|机器学习|
 AITD-00286|Conjugate|共轭||[1]||
 AITD-00287|Conjugate Directions|共轭方向||[1]||
 AITD-00288|Conjugate Distribution|共轭分布||[1]||
-AITD-00289|Conjugate Gradient|共轭梯度||[1]||
+AITD-00289|Conjugate Gradient|共轭梯度| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00488/978-1-78801-789-3)|优化，数学|
 AITD-00290|Conjugate Prior|共轭先验||[1]||
 AITD-00291|Connection Weight|连接权||[1]||
 AITD-00292|Connectionism|连接主义||[1]||
@@ -145,18 +145,18 @@ AITD-00329|Coordinate Ascent|坐标上升||[1]||
 AITD-00330|Coordinate Descent|坐标下降||[1]||
 AITD-00331|Coparent|共父||[1]||
 AITD-00332|Corpus|语料库||[1]||
-AITD-00333|Correlation|相关系数||[1]||
+AITD-00333|Correlation|相关系数| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00109/978-1-78801-789-3)| |
 AITD-00334|Correlation Coefficient|相关系数||[1]||
 AITD-00335|Cosine|余弦||[1]||
 AITD-00336|Cosine Decay|余弦衰减||[1]||
 AITD-00337|Cosine Similarity|余弦相似度||[1]||
 AITD-00338|Cost|代价||[1]||
 AITD-00339|Cost Curve|代价曲线||[1]||
-AITD-00340|Cost Function|代价函数||[1]||
+AITD-00340|Cost Function|代价函数||[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00109/978-1-78801-789-3)[[2]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00016/978-1-78801-789-3)[[3]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00169/978-1-78801-789-3)||
 AITD-00341|Cost Matrix|代价矩阵||[1]||
 AITD-00342|Cost-Sensitive|代价敏感||[1]||
-AITD-00343|Covariance|协方差||[1]||
-AITD-00344|Covariance Matrix|协方差矩阵||[1]||
+AITD-00343|Covariance|协方差||[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00037/978-1-78801-789-3)||
+AITD-00344|Covariance Matrix|协方差矩阵||[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00037/978-1-78801-789-3)||
 AITD-00345|Covariance RBM|协方差RBM||[1]||
 AITD-00346|Covariate Shift|协变量偏移||[1]||
 AITD-00347|Coverage|覆盖||[1]||
@@ -181,3 +181,36 @@ AITD-00365|Cut Point|截断点||[1]||
 AITD-00366|Cutting Plane Algorithm|割平面法||[1]||
 AITD-00367|Cybernetics|控制论||[1]||
 AITD-00368|Cyclic Learning Rate|循环学习率||[1]||
+AITD-02138|C4.5 Algorithm|C4.5 算法| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00037/978-1-78801-789-3)|一种决策树算法，数据挖掘|
+AITD-02139|Calculation Uncertainties|计算不确定性| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00311/978-1-78801-789-3)| |
+AITD-02140|Canonical Ml Methods|经典机器学习方法| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00037/978-1-78801-789-3)| |
+AITD-02141|Cartesian Distance Vector|笛卡尔距离向量| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00488/978-1-78801-789-3)| |
+AITD-02142|CASP|国际蛋白质结构预测竞赛| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00136/978-1-78801-789-3)|生物|
+AITD-02143|Categorical Data|分类数据| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00206/978-1-83916-023-3)| |
+AITD-02144|Categorization Algorithms|分类算法| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00227/978-1-78801-789-3)| |
+AITD-02145|ChemDataExtractor|化学数据提取器|CDE|[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00280/978-1-78801-789-3)| |
+AITD-02146|Chi-Squared|卡方（分布）| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00311/978-1-78801-789-3)| |
+AITD-02147|Classification Model|分类模型| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00195/978-1-83916-023-3)[[2]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00037/978-1-78801-789-3)| |
+AITD-02148|Cluster Resolution Feature Selection|聚类分辨率特征选择|CR-FS|[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00311/978-1-78801-789-3)| |
+AITD-02149|Cluster-Based Splitting|基于聚类的分离方法| |[[1]](https://www.nature.com/articles/s41557-021-00716-z)| |
+AITD-02150|Clustering Methods|聚类方法| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00169/978-1-78801-789-3)| |
+AITD-02151|Code Pipeline|代码流水线| |[[1]](https://www.nature.com/articles/s41557-021-00716-z)| |
+AITD-02152|Coefficient of Determination|决定系数|r^2 or R^2|[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00037/978-1-78801-789-3)|统计|
+AITD-02153|Combined Gradient|组合梯度（算法）| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00076/978-1-78801-789-3)|机器学习|
+AITD-02154|Complex Data|复合数据| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00206/978-1-83916-023-3)| |
+AITD-02155|Computational Cost|计算成本| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00076/978-1-78801-789-3)| |
+AITD-02156|Computational Optimisation|计算优化| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00280/978-1-78801-789-3)| |
+AITD-02157|Computational Science|计算科学| |[[1]](https://www.nature.com/articles/s41557-021-00716-z)| |
+AITD-02158|Computational Toxicology|计算毒理学| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00001/978-1-78801-789-3)| |
+AITD-02159|Computer Science|计算机科学| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00016/978-1-78801-789-3)| |
+AITD-02160|Computer Simulations|计算机模拟| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00512/978-1-78801-789-3)| |
+AITD-02161|Computer-Aided|计算机辅助| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00136/978-1-78801-789-3)| |
+AITD-02162|Constraint|约束| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00169/978-1-78801-789-3)| |
+AITD-02163|Core-Loss Spectrum|（电子能量损失谱中的）高能区域| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00424/978-1-78801-789-3)| |
+AITD-02164|Coulomb Matrix|库仑矩阵| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00076/978-1-78801-789-3)| |
+AITD-02165|Coupled-Cluster Predictions|耦合簇预测| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00372/978-1-78801-789-3)| |
+AITD-02166|Cross-Validated Coefficient of Determination|交叉验证的决定系数|q^2 or Q^2|[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00037/978-1-78801-789-3)| |
+AITD-02167|Cross-Validation|交叉验证|CV|[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00037/978-1-78801-789-3)[[2]](https://www.nature.com/articles/s41557-021-00716-z)[[3]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00311/978-1-78801-789-3)| |
+AITD-02168|Crowd-Sourcing|众包| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00311/978-1-78801-789-3)| 商业模式|
+AITD-02169|Cut-Points|切点| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00311/978-1-78801-789-3)| |
+AITD-02170|Cutoff Radial Function|截断径向函数| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00488/978-1-78801-789-3)| |
