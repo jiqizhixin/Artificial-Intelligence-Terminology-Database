@@ -15,7 +15,7 @@ AITD-01268|Nash Reversion|纳什回归||[1]||
 AITD-01269|Nats|奈特||[1]||
 AITD-01270|Natural Exponential Decay|自然指数衰减||[1]||
 AITD-01271|Natural Language Generation|自然语言生成|NLG|[1]||
-AITD-01272|Natural Language Processing|自然语言处理|NLP|[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00280/978-1-78801-789-3)[[2]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00037/978-1-78801-789-3)[[3]](https://www.nature.com/articles/s41557-021-00716-z)[[4]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00001/978-1-78801-789-3)[[5]](https://www.jiqizhixin.com/articles/2017-12-14-5)[[6]](https://www.jiqizhixin.com/articles/2017-11-14-4)[[7]](https://www.jiqizhixin.com/articles/2017-11-12-3)|机器学习|
+AITD-01272|Natural Language Processing|自然语言处理|NLP|[[1]](https://www.jiqizhixin.com/articles/2017-12-14-5)[[2]](https://www.jiqizhixin.com/articles/2017-11-14-4)[[3]](https://www.jiqizhixin.com/articles/2017-11-12-3)||
 AITD-01273|Nearest Neighbor|最近邻||[1]||
 AITD-01274|Nearest Neighbor Classifier|最近邻分类器||[1]||
 AITD-01275|Nearest Neighbor Graph|最近邻图||[1]||
@@ -42,7 +42,7 @@ AITD-01295|Neural Auto-Regressive Density Estimator|神经自回归密度估计�
 AITD-01296|Neural Auto-Regressive Network|神经自回归网络||[1]||
 AITD-01297|Neural Language Model|神经语言模型||[1]||
 AITD-01298|Neural Machine Translation|神经机器翻译||[[1]](https://www.jiqizhixin.com/articles/2017-08-22-6)||
-AITD-01299|Neural Model|神经模型| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00227/978-1-78801-789-3)| |
+AITD-01299|Neural Model|神经模型||[1]||
 AITD-01300|Neural Network|神经网络|NN|[1]||
 AITD-01301|Neural Turing Machine|神经图灵机|NTM|[[1]](https://www.jiqizhixin.com/articles/2017-04-11-7)||
 AITD-01302|Neurodynamics|神经动力学||[1]||
@@ -51,7 +51,7 @@ AITD-01304|Neuron|神经元||[1]||
 AITD-01305|Newton Method|牛顿法||[[1]](https://www.jiqizhixin.com/articles/2017-03-11-2)||
 AITD-01306|No Free Lunch Theorem|没有免费午餐定理|NFL|[[1]](https://www.jiqizhixin.com/articles/2018-01-03-6)||
 AITD-01307|Node|结点||[1]||
-AITD-01308|Noise|噪声| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00076/978-1-78801-789-3)| |
+AITD-01308|Noise|噪声||[1]||
 AITD-01309|Noise Distribution|噪声分布||[1]||
 AITD-01310|Noise-Contrastive Estimation|噪声对比估计|NCE|[1]||
 AITD-01311|Nominal Attribute|列名属性||[1]||
@@ -64,7 +64,7 @@ AITD-01317|Non-Linear Support Vector Machine|非线性支持向量机||[1]||
 AITD-01318|Non-Metric Distance|非度量距离||[1]||
 AITD-01319|Non-Negative Matrix Factorization|非负矩阵分解|NMF|[1]||
 AITD-01320|Non-Ordinal Attribute|无序属性||[1]||
-AITD-01321|Non-Parametric|非参数| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00037/978-1-78801-789-3)| |
+AITD-01321|Non-Parametric|非参数||[1]||
 AITD-01322|Non-Parametric Model|非参数化模型||[1]||
 AITD-01323|Non-Probabilistic Model|非概率模型||[1]||
 AITD-01324|Non-Saturating Game|非饱和博弈||[1]||
@@ -81,7 +81,7 @@ AITD-01334|Norm|范数||[1]||
 AITD-01335|Norm-Preserving|范数保持性||[1]||
 AITD-01336|Normal Distribution|正态分布||[1]||
 AITD-01337|Normal Equation|正规方程||[1]||
-AITD-01338|Normalization|规范化||[[1]](https://www.nature.com/articles/s41557-021-00716-z)|统计、机器学习|
+AITD-01338|Normalization|规范化||[1]||
 AITD-01339|Normalization Factor|规范化因子||[1]||
 AITD-01340|Normalized|规范化的||[1]||
 AITD-01341|Normalized Initialization|标准初始化||[1]||
@@ -94,28 +94,3 @@ AITD-01347|Numerical Attribute|数值属性||[1]||
 AITD-01348|Numerical Differentiation|数值微分||[1]||
 AITD-01349|Numerical Method|数值方法||[1]||
 AITD-01350|Numerical Optimization|数值优化||[1]||
-AITD-02397|N-Dimensional Space|N维空间| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00372/978-1-78801-789-3)| |
-AITD-02398|Naive Bayesian|朴素贝叶斯| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00251/978-1-78801-789-3)|统计|
-AITD-02399|Naive Bayesian Methods|朴素贝叶斯方法| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00251/978-1-78801-789-3)|统计|
-AITD-02400|Named Entity Recognition，NER|命名实体识别|NER|[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00280/978-1-78801-789-3)| |
-AITD-02401|Nearest Neighbors|近邻| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00311/978-1-78801-789-3)| |
-AITD-02402|Nearest Neighbour Model|近邻模型| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00001/978-1-78801-789-3)| |
-AITD-02403|Negative Predictive Value|阴性预测值|NPV|[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00016/978-1-78801-789-3)| |
-AITD-02404|Network Architecture|网络结构| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00076/978-1-78801-789-3)|机器学习|
-AITD-02405|Network Geometry|网络几何| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00109/978-1-78801-789-3)| |
-AITD-02406|Neural Turing Machines|神经图灵机|NTM|[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00311/978-1-78801-789-3)[[2]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00109/978-1-78801-789-3)| |
-AITD-02407|Neural-Network-Based Function|基于神经网络的函数| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00251/978-1-78801-789-3)| |
-AITD-02408|Neurons|神经元| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00016/978-1-78801-789-3)|机器学习|
-AITD-02409|Nuclear Magnetic Resonance|核磁共振|NMR|[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00001/978-1-78801-789-3)| |
-AITD-02410|Noise Filters|噪声过滤器| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00311/978-1-78801-789-3)| |
-AITD-02411|Noise-Free|无噪的| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00311/978-1-78801-789-3)| |
-AITD-02412|Non-Linear|非线性| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00016/978-1-78801-789-3)|数学、统计|
-AITD-02413|Non-Linear Correlation|非线性相关| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00195/978-1-83916-023-3)|统计|
-AITD-02414|Non-Linearity|非线性| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00016/978-1-78801-789-3)| |
-AITD-02415|Non-Parametric Algorithm|非参数化学习算法| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00311/978-1-78801-789-3)| |
-AITD-02416|Non-Safety-Critical Applications|非安全关键型应用| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00109/978-1-78801-789-3)| |
-AITD-02417|Non-Steady-State|非稳态| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00340/978-1-78801-789-3)| |
-AITD-02418|Non-Stochastic|非随机的| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00398/978-1-78801-789-3)| |
-AITD-02419|Non-Template|非模板| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00136/978-1-78801-789-3)| |
-AITD-02420|Non-Template Methods|非模板方法| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00136/978-1-78801-789-3)| |
-AITD-02421|Non-Zero Weight|非零权重| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00037/978-1-78801-789-3)| |

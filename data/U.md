@@ -10,7 +10,7 @@ AITD-01967|Unconstrained Optimization|无约束优化||[1]||
 AITD-01968|Undercomplete|欠完备||[1]||
 AITD-01969|Underdetermined|欠定的||[1]||
 AITD-01970|Underestimation|欠估计||[1]||
-AITD-01971|Underfitting|欠拟合||[[1]](https://www.nature.com/articles/s41557-021-00716-z)|机器学习|
+AITD-01971|Underfitting|欠拟合||[1]||
 AITD-01972|Underfitting Regime|欠拟合机制||[1]||
 AITD-01973|Underflow|下溢||[1]||
 AITD-01974|Underlying|潜在||[1]||
@@ -51,7 +51,7 @@ AITD-02008|Unsupervised|无监督||[1]||
 AITD-02009|Unsupervised Feature Learning|无监督特征学习||[1]||
 AITD-02010|Unsupervised Layer-Wise Training|无监督逐层训练||[1]||
 AITD-02011|Unsupervised Learning Algorithm|无监督学习算法||[1]||
-AITD-02012|Unsupervised Learning|无监督学习|UL|[[1]](https://www.jiqizhixin.com/articles/2017-11-17-5)[[2]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00037/978-1-78801-789-3)[[3]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00311/978-1-78801-789-3)||
+AITD-02012|Unsupervised Learning|无监督学习|UL|[[1]](https://www.jiqizhixin.com/articles/2017-11-17-5)||
 AITD-02013|Unsupervised Pretraining|无监督预训练||[1]||
 AITD-02014|Update Gate|更新门||[1]||
 AITD-02015|Update Model Parameter|迭代模型参数||[1]||

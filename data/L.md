@@ -33,7 +33,7 @@ AITD-00980|Layer-Wise Adaptive Rate Scaling|逐层适应率缩放|LARS|[1]||
 AITD-00981|Layer-Wise Normalization|逐层规范化||[1]||
 AITD-00982|Layer-Wise Pretraining|逐层预训练||[1]||
 AITD-00983|Layer-Wise Training|逐层训练||[1]||
-AITD-00984|Lazy Learning|懒惰学习||[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00037/978-1-78801-789-3)||
+AITD-00984|Lazy Learning|懒惰学习||[1]||
 AITD-00985|Leaf Node|叶结点||[1]||
 AITD-00986|Leaky Lelu Function|泄漏线性整流函数||[1]||
 AITD-00987|Leaky Relu|泄漏修正线性单元/泄漏整流线性单元||[1]||
@@ -68,14 +68,14 @@ AITD-01015|Linear Chain|线性链||[1]||
 AITD-01016|Linear Chain Conditional Random Field|线性链条件随机场||[1]||
 AITD-01017|Linear Classification Model|线性分类模型||[1]||
 AITD-01018|Linear Classifier|线性分类器||[1]||
-AITD-01019|Linear Combination|线性组合| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00016/978-1-78801-789-3)|数学|
+AITD-01019|Linear Combination|线性组合||[1]||
 AITD-01020|Linear Dependence|线性相关||[1]||
-AITD-01021|Linear Discriminant Analysis|线性判别分析|LDA|[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00450/978-1-78801-789-3)|统计、机器学习|
+AITD-01021|Linear Discriminant Analysis|线性判别分析|LDA|[1]||
 AITD-01022|Linear Factor Model|线性因子模型||[1]||
 AITD-01023|Linear Mapping|线性映射||[1]||
-AITD-01024|Linear Model|线性模型|LR|[[1]](https://www.nature.com/articles/s41557-021-00716-z)[[2]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00076/978-1-78801-789-3)|统计、机器学习|
+AITD-01024|Linear Model|线性模型||[1]||
 AITD-01025|Linear Programming|线性规划||[1]||
-AITD-01026|Linear Regression|线性回归||[[1]](https://www.jiqizhixin.com/articles/2018-01-01)[[2]](https://www.jiqizhixin.com/articles/2017-11-17-5)[[3]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00037/978-1-78801-789-3)|统计、数学|
+AITD-01026|Linear Regression|线性回归||[[1]](https://www.jiqizhixin.com/articles/2018-01-01)[[2]](https://www.jiqizhixin.com/articles/2017-11-17-5)||
 AITD-01027|Linear Scaling Rule|线性缩放规则||[1]||
 AITD-01028|Linear Scan|线性扫描||[1]||
 AITD-01029|Linear Space|线性空间||[1]||
@@ -120,12 +120,12 @@ AITD-01067|Log-Linear Regression|对数线性回归||[1]||
 AITD-01068|Logarithmic Loss Function|对数损失函数||[1]||
 AITD-01069|Logarithmic Scale|对数尺度||[1]||
 AITD-01070|Logistic Distribution|对数几率分布||[1]||
-AITD-01071|Logistic Function|对数几率函数||[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00398/978-1-78801-789-3)||
+AITD-01071|Logistic Function|对数几率函数||[1]||
 AITD-01072|Logistic Loss|对率损失||[1]||
-AITD-01073|Logistic Regression|对数几率回归|LR|[[1]](https://www.jiqizhixin.com/articles/2017-11-23-6)[[2]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00372/978-1-78801-789-3)|统计、机器学习|
+AITD-01073|Logistic Regression|对数几率回归|LR|[[1]](https://www.jiqizhixin.com/articles/2017-11-23-6)||
 AITD-01074|Logistic Sigmoid|对数几率Sigmoid||[1]||
 AITD-01075|Logit|对数几率||[1]||
-AITD-01076|Long Short Term Memory|长短期记忆|LSTM|[[1]](https://www.jiqizhixin.com/articles/2017-12-18-6)[[2]](https://www.jiqizhixin.com/articles/2017-10-04-2)[[3]](https://www.jiqizhixin.com/articles/2017-09-29-7)[[4]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00001/978-1-78801-789-3)||
+AITD-01076|Long Short Term Memory|长短期记忆|LSTM|[[1]](https://www.jiqizhixin.com/articles/2017-12-18-6)[[2]](https://www.jiqizhixin.com/articles/2017-10-04-2)[[3]](https://www.jiqizhixin.com/articles/2017-09-29-7)||
 AITD-01077|Long Short-Term Memory Network|长短期记忆网络|LSTM|[1]||
 AITD-01078|Long-Term Dependencies Problem|长程依赖问题||[1]||
 AITD-01079|Long-Term Dependency|长期依赖||[1]||
@@ -133,26 +133,6 @@ AITD-01080|Long-Term Memory|长期记忆||[1]||
 AITD-01081|Loop|环||[1]||
 AITD-01082|Loopy Belief Propagation|环状信念传播|LBP|[1]||
 AITD-01083|Loss|损失||[1]||
-AITD-01084|Loss Function|损失函数||[[1]](https://www.jiqizhixin.com/articles/2018-01-03-4)[[2]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00076/978-1-78801-789-3)|机器学习|
+AITD-01084|Loss Function|损失函数||[[1]](https://www.jiqizhixin.com/articles/2018-01-03-4)||
 AITD-01085|Low Rank Matrix Approximation|低秩矩阵近似||[1]||
 AITD-01086|Lp Distance|Lp距离||[1]||
-AITD-02331|L1 And L2 Regularization|L1与L2正则化| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00076/978-1-78801-789-3)| |
-AITD-02332|Laboratory Level|实验室级别| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00136/978-1-78801-789-3)| |
-AITD-02333|Language Processing|语言处理| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00001/978-1-78801-789-3)| |
-AITD-02334|Laplacian Prior|拉普拉斯先验| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00206/978-1-83916-023-3)| |
-AITD-02335|Large-Scale Data Storage|大规模数据存储| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00001/978-1-78801-789-3)| |
-AITD-02336|Lasers|激光器| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00136/978-1-78801-789-3)| |
-AITD-02337|Lasso Regression|拉索回归| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00206/978-1-83916-023-3)| |
-AITD-02338|LBP|局部二值模式| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00340/978-1-78801-789-3)| |
-AITD-02339|Least Absolute Shrinkage And Selection Operator|Lasso回归|LASSO|[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00037/978-1-78801-789-3)| |
-AITD-02340|Least Square Support Vector Machine|最小二乘支持向量机|LSSVM|[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00311/978-1-78801-789-3)| |
-AITD-02341|Ligand-Field|配位场| |[[1]](https://www.nature.com/articles/s41557-021-00716-z)| |
-AITD-02342|Linear|线性的| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00037/978-1-78801-789-3)[[2]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00016/978-1-78801-789-3)|数学|
-AITD-02343|Linear Dimension Reduction Methods|线性降维方法| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00450/978-1-78801-789-3)| |
-AITD-02344|Linear Vibronic Coupling Model|线性振子耦合模型| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00076/978-1-78801-789-3)| |
-AITD-02345|Local Recurrent|本地卷积| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00227/978-1-78801-789-3)| |
-AITD-02346|Logic And Heuristics Applied To Synthetic Analysis|LHASA 程序|LHASA|[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00169/978-1-78801-789-3)| |
-AITD-02347|Long-Range Prediction|长期预测| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00227/978-1-78801-789-3)| |
-AITD-02348|Long-Range Prediction Models|长期预测模型| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00227/978-1-78801-789-3)| |
-AITD-02349|Long-Term Planning|长期规划| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00001/978-1-78801-789-3)| |
-AITD-02350|Long-Term Reward|长期回报| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00136/978-1-78801-789-3)| |

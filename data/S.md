@@ -58,7 +58,7 @@ AITD-01685|Separating Hyperplane|分离超平面||[1]||
 AITD-01686|Separation|分离||[1]||
 AITD-01687|Sequence Labeling|序列标注||[1]||
 AITD-01688|Sequence To Sequence Learning|序列到序列学习|Seq2Seq|[1]||
-AITD-01689|Sequence-To-Sequence|序列到序列|Seq2Seq|[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00136/978-1-78801-789-3)| |
+AITD-01689|Sequence-To-Sequence|序列到序列|Seq2Seq|[1]||
 AITD-01690|Sequential Covering|序贯覆盖||[1]||
 AITD-01691|Sequential Minimal Optimization|序列最小最优化|SMO|[1]||
 AITD-01692|Sequential Model-Based Optimization|时序模型优化|SMBO|[1]||
@@ -76,7 +76,7 @@ AITD-01703|Short-Term Memory|短期记忆||[1]||
 AITD-01704|Shortcut Connection|直连边||[1]||
 AITD-01705|Shortlist|短列表||[1]||
 AITD-01706|Siamese Network|孪生网络||[[1]](https://www.jiqizhixin.com/articles/2018-01-02-4)||
-AITD-01707|Sigmoid|Sigmoid（一种激活函数）||[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00016/978-1-78801-789-3)|统计|
+AITD-01707|Sigmoid|Sigmoid||[1]||
 AITD-01708|Sigmoid Belief Network|Sigmoid信念网络|SBN|[1]||
 AITD-01709|Sigmoid Curve|S 形曲线||[1]||
 AITD-01710|Sigmoid Function|Sigmoid函数||[[1]](https://www.jiqizhixin.com/articles/2017-11-02-26)||
@@ -88,11 +88,11 @@ AITD-01715|Simple Cell|简单细胞||[1]||
 AITD-01716|Simple Recurrent Network|简单循环网络|SRN|[1]||
 AITD-01717|Simple Recurrent Neural Network|简单循环神经网络|S-RNN|[1]||
 AITD-01718|Simplex|单纯形||[1]||
-AITD-01719|Simulated Annealing|模拟退火||[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00488/978-1-78801-789-3)|统计、机器学习|
+AITD-01719|Simulated Annealing|模拟退火||[1]||
 AITD-01720|Simultaneous Localization And Mapping|即时定位与地图构建|SLAM|[1]||
 AITD-01721|Single Component Metropolis-Hastings|单分量Metropolis-Hastings||[1]||
 AITD-01722|Single Linkage|单连接||[1]||
-AITD-01723|Singular|奇异的| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00037/978-1-78801-789-3)| |
+AITD-01723|Singular|奇异的||[1]||
 AITD-01724|Singular Value|奇异值||[1]||
 AITD-01725|Singular Value Decomposition|奇异值分解|SVD|[1]||
 AITD-01726|Singular Vector|奇异向量||[1]||
@@ -112,7 +112,7 @@ AITD-01739|Soft Margin Maximization|软间隔最大化||[1]||
 AITD-01740|Soft Target|软目标||[1]||
 AITD-01741|Soft Voting|软投票||[1]||
 AITD-01742|Softmax|Softmax/软最大化||[1]||
-AITD-01743|Softmax Function|Softmax函数/软最大化函数||[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00398/978-1-78801-789-3)|统计、机器学习|
+AITD-01743|Softmax Function|Softmax函数/软最大化函数||[1]||
 AITD-01744|Softmax Regression|Softmax回归/软最大化回归||[1]||
 AITD-01745|Softmax Unit|Softmax单元/软最大化单元||[1]||
 AITD-01746|Softplus|Softplus||[1]||
@@ -132,7 +132,7 @@ AITD-01759|Sparsity|稀疏性||[1]||
 AITD-01760|Specialization|特化||[1]||
 AITD-01761|Spectral Clustering|谱聚类||[1]||
 AITD-01762|Spectral Radius|谱半径||[1]||
-AITD-01763|Speech Recognition|语音识别| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00109/978-1-78801-789-3)[[2]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00001/978-1-78801-789-3)[[3]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00037/978-1-78801-789-3)[[4]](https://www.jiqizhixin.com/articles/2018-01-01-3)[[5]](https://www.jiqizhixin.com/articles/2017-12-04)[[6]](https://www.jiqizhixin.com/articles/2017-12-15)| |
+AITD-01763|Speech Recognition|语音识别||[[1]](https://www.jiqizhixin.com/articles/2018-01-01-3)[[2]](https://www.jiqizhixin.com/articles/2017-12-04)[[3]](https://www.jiqizhixin.com/articles/2017-12-15)||
 AITD-01764|Sphering|Sphering||[1]||
 AITD-01765|Spike And Slab|尖峰和平板||[1]||
 AITD-01766|Spike And Slab RBM|尖峰和平板RBM||[1]||
@@ -169,7 +169,7 @@ AITD-01796|Stationary|平稳的||[1]||
 AITD-01797|Stationary Distribution|平稳分布||[1]||
 AITD-01798|Stationary Point|驻点||[1]||
 AITD-01799|Statistic Efficiency|统计效率||[1]||
-AITD-01800|Statistical Learning|统计学习||[[1]](https://www.nature.com/articles/s41557-021-00716-z)[[2]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00136/978-1-78801-789-3)||
+AITD-01800|Statistical Learning|统计学习||[1]||
 AITD-01801|Statistical Learning Theory|统计学习理论||[1]||
 AITD-01802|Statistical Machine Learning|统计机器学习||[1]||
 AITD-01803|Statistical Relational Learning|统计关系学习||[1]||
@@ -221,14 +221,14 @@ AITD-01848|Sum-Product|和积||[1]||
 AITD-01849|Sum-Product Network|和-积网络||[1]||
 AITD-01850|Super-Parent|超父||[1]||
 AITD-01851|Supervised|监督||[1]||
-AITD-01852|Supervised Learning|监督学习||[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00037/978-1-78801-789-3)[[2]](https://www.nature.com/articles/s41557-021-00716-z)[[3]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00311/978-1-78801-789-3)|机器学习|
+AITD-01852|Supervised Learning|监督学习||[1]||
 AITD-01853|Supervised Learning Algorithm|监督学习算法||[1]||
 AITD-01854|Supervised Model|监督模型||[1]||
 AITD-01855|Supervised Pretraining|监督预训练||[1]||
-AITD-01856|Support Vector|支持向量||[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00037/978-1-78801-789-3)|统计、机器学习|
+AITD-01856|Support Vector|支持向量||[1]||
 AITD-01857|Support Vector Expansion|支持向量展式||[1]||
-AITD-01858|Support Vector Machine|支持向量机|SVM|[[1]](https://www.jiqizhixin.com/articles/2017-10-08)[[2]](https://www.nature.com/articles/s41557-021-00716-z)[[3]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00037/978-1-78801-789-3)[[4]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00251/978-1-78801-789-3)|统计、机器学习|
-AITD-01859|Support Vector Regression|支持向量回归|SVR|[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00076/978-1-78801-789-3)[[2]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00450/978-1-78801-789-3)[[3]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00227/978-1-78801-789-3)|统计、机器学习|
+AITD-01858|Support Vector Machine|支持向量机|SVM|[[1]](https://www.jiqizhixin.com/articles/2017-10-08)||
+AITD-01859|Support Vector Regression|支持向量回归|SVR|[1]||
 AITD-01860|Surrogat Loss|替代损失||[1]||
 AITD-01861|Surrogate Function|替代函数||[1]||
 AITD-01862|Surrogate Loss Function|代理损失函数||[1]||
@@ -242,6 +242,3 @@ AITD-01869|Symmetric Matrix|对称矩阵||[1]||
 AITD-01870|Synonymy|多词一义性||[1]||
 AITD-01871|Synset|同义词集||[1]||
 AITD-01872|Synthetic Feature|合成特征||[1]||
-AITD-02436|Scaling|缩放||[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00109/978-1-78801-789-3)|图像处理|
-AITD-02437|Simulation|仿真||[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00340/978-1-78801-789-3)||
-AITD-02442|Sequence-Function|序列-功能||[1]||

@@ -31,7 +31,7 @@ AITD-00865|Index of Matrix|索引||[1]||
 AITD-00866|Indicator Function|指示函数||[1]||
 AITD-00867|Individual Learner|个体学习器||[1]||
 AITD-00868|Induction|归纳||[1]||
-AITD-00869|Inductive Bias|归纳偏好||[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00372/978-1-78801-789-3)||
+AITD-00869|Inductive Bias|归纳偏好||[1]||
 AITD-00870|Inductive Learning|归纳学习||[1]||
 AITD-00871|Inductive Logic Programming|归纳逻辑程序设计|ILP|[1]||
 AITD-00872|Inductive Transfer Learning|归纳迁移学习||[1]||
@@ -41,8 +41,8 @@ AITD-00875|Infinite|无限||[1]||
 AITD-00876|Infinitely Exchangeable|无限可交换||[1]||
 AITD-00877|Information Divergence|信息散度||[1]||
 AITD-00878|Information Entropy|信息熵||[1]||
-AITD-00879|Information Gain|信息增益||[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00037/978-1-78801-789-3)|统计|
-AITD-00880|Information Gain Ratio|信息增益比| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00037/978-1-78801-789-3)|统计|
+AITD-00879|Information Gain|信息增益||[1]||
+AITD-00880|Information Gain Ratio|信息增益比||[1]||
 AITD-00881|Information Retrieval|信息检索||[1]||
 AITD-00882|Information Theory|信息论||[1]||
 AITD-00883|Inner Product|内积||[1]||
@@ -78,21 +78,5 @@ AITD-00912|Isometric Mapping|等度量映射|Isomap|[1]||
 AITD-00913|Isotonic Regression|等分回归||[1]||
 AITD-00914|Isotropic|各向同性||[1]||
 AITD-00915|Isotropic Gaussian Distribution|各向同性高斯分布||[1]||
-AITD-00916|Iteration|迭代| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00016/978-1-78801-789-3)[[2]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00311/978-1-78801-789-3)|数学、机器学习|
+AITD-00916|Iteration|迭代||[1]||
 AITD-00917|Iterative Dichotomiser|迭代二分器||[1]||
-AITD-02301|Id3 Algorithm|Id3 算法| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00037/978-1-78801-789-3)| |
-AITD-02302|Image And Speech Recognition|图像和语音识别| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00450/978-1-78801-789-3)| |
-AITD-02303|Image Classification|图像分类| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00016/978-1-78801-789-3)| |
-AITD-02304|Image Classifier|图像分类器| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00450/978-1-78801-789-3)| |
-AITD-02305|Image Recognition|图像识别| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00109/978-1-78801-789-3)|机器学习|
-AITD-02306|Informative Priors|信息先验| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00195/978-1-83916-023-3)| |
-AITD-02307|Input-Output Pairs|输入输出对| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00169/978-1-78801-789-3)| |
-AITD-02308|Instance-Based|基于实例的| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00311/978-1-78801-789-3)| |
-AITD-02309|Intelligent Machine|智能机器| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00001/978-1-78801-789-3)| |
-AITD-02310|Intermediate Neurons|中间神经元| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00227/978-1-78801-789-3)|机器学习|
-AITD-02311|Internet Of Things|物联网|IoT|[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00340/978-1-78801-789-3)| |
-AITD-02312|Interpolation Coordinate|插值坐标| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00076/978-1-78801-789-3)| |
-AITD-02313|Interpretability|可解释性| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00109/978-1-78801-789-3)| |
-AITD-02314|Inverse Neural Modeling|逆神经建模|INN|[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00227/978-1-78801-789-3)| |
-AITD-02315|Inverse Neural Network Modeling|逆神经网络建模| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00227/978-1-78801-789-3)| |
-AITD-02316|Iterative Learning|迭代学习| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00001/978-1-78801-789-3)| |

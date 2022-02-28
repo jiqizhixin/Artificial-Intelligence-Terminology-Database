@@ -3,7 +3,7 @@
 索引编号|英文术语|中文翻译|常用缩写|来源&扩展|备注
 ---|---|---|---|---|---
 AITD-01087|Machine Learning Model|机器学习模型||[1]||
-AITD-01088|Machine Learning|机器学习|ML|[[1]](https://www.nature.com/articles/s41557-021-00716-z)|机器学习|
+AITD-01088|Machine Learning|机器学习|ML|[1]||
 AITD-01089|Machine Translation|机器翻译|MT|[[1]](https://www.jiqizhixin.com/articles/2018-01-13-5)||
 AITD-01090|Macro Average|宏平均||[1]||
 AITD-01091|Macro-F1|宏F1||[1]||
@@ -18,7 +18,7 @@ AITD-01099|Manifold|流形||[1]||
 AITD-01100|Manifold Assumption|流形假设||[1]||
 AITD-01101|Manifold Learning|流形学习||[1]||
 AITD-01102|Manifold Tangent Classifier|流形正切分类器||[1]||
-AITD-01103|Margin|间隔||[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00169/978-1-78801-789-3)|统计|
+AITD-01103|Margin|间隔||[1]||
 AITD-01104|Margin Theory|间隔理论||[1]||
 AITD-01105|Marginal Distribution|边缘分布||[1]||
 AITD-01106|Marginal Independence|边缘独立性||[1]||
@@ -87,10 +87,10 @@ AITD-01168|Message|消息||[1]||
 AITD-01169|Message Passing|消息传递||[1]||
 AITD-01170|Message Passing Neural Network|消息传递神经网络|MPNN|[1]||
 AITD-01171|Meta-Learner|元学习器||[1]||
-AITD-01172|Meta-Learning|元学习| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00311/978-1-78801-789-3)| |
+AITD-01172|Meta-Learning|元学习||[1]||
 AITD-01173|Meta-Optimization|元优化||[1]||
 AITD-01174|Meta-Rule|元规则||[1]||
-AITD-01175|Metric|指标| |[[1]](https://www.nature.com/articles/s41557-021-00716-z)[[2]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00016/978-1-78801-789-3)| |
+AITD-01175|Metric|指标||[1]||
 AITD-01176|Metric Learning|度量学习||[1]||
 AITD-01177|Micro Average|微平均||[1]||
 AITD-01178|Micro-F1|微F1||[1]||
@@ -124,8 +124,8 @@ AITD-01205|Model Compression|模型压缩||[1]||
 AITD-01206|Model Identifiability|模型可辨识性||[1]||
 AITD-01207|Model Parallelism|模型并行||[1]||
 AITD-01208|Model Parameter|模型参数||[1]||
-AITD-01209|Model Predictive Control|模型预测控制|MPC|[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00340/978-1-78801-789-3)| |
-AITD-01210|Model Selection|模型选择||[[1]](https://www.nature.com/articles/s41557-021-00716-z)||
+AITD-01209|Model Predictive Control|模型预测控制|MPC|[1]||
+AITD-01210|Model Selection|模型选择||[1]||
 AITD-01211|Model-Agnostic Meta-Learning|模型无关的元学习|MAML|[1]||
 AITD-01212|Model-Based Learning|有模型学习||[1]||
 AITD-01213|Model-Based Reinforcement Learning|基于模型的强化学习||[1]||
@@ -156,7 +156,7 @@ AITD-01237|Multi-Kernel Learning|多核学习||[1]||
 AITD-01238|Multi-Label Classification|多标签分类||[1]||
 AITD-01239|Multi-Label Learning|多标记学习||[1]||
 AITD-01240|Multi-Layer Feedforward Neural Networks|多层前馈神经网络||[1]||
-AITD-01241|Multi-Layer Perceptron|多层感知机|MLP|[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00340/978-1-78801-789-3)[[2]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00398/978-1-78801-789-3)[[3]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00372/978-1-78801-789-3)||
+AITD-01241|Multi-Layer Perceptron|多层感知机|MLP|[1]||
 AITD-01242|Multi-Nominal Logistic Regression Model|多项对数几率回归模型||[1]||
 AITD-01243|Multi-Prediction Deep Boltzmann Machine|多预测深度玻尔兹曼机||[1]||
 AITD-01244|Multi-Response Linear Regression|多响应线性回归|MLR|[1]||
@@ -168,54 +168,9 @@ AITD-01249|Multinomial Distribution|多项分布||[1]||
 AITD-01250|Multinoulli Distribution|Multinoulli分布||[1]||
 AITD-01251|Multinoulli Output Distribution|Multinoulli输出分布||[1]||
 AITD-01252|Multiple Dimensional Scaling|多维缩放||[1]||
-AITD-01253|Multiple Linear Regression|多元线性回归|MLR|[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00311/978-1-78801-789-3)[[2]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00340/978-1-78801-789-3)[[3]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00206/978-1-83916-023-3)|统计|
+AITD-01253|Multiple Linear Regression|多元线性回归||[1]||
 AITD-01254|Multitask Learning|多任务学习||[1]||
 AITD-01255|Multivariate Decision Tree|多变量决策树||[1]||
 AITD-01256|Multivariate Gaussian Distribution|多元高斯分布||[1]||
 AITD-01257|Multivariate Normal Distribution|多元正态分布||[1]||
 AITD-01258|Mutual Information|互信息||[1]||
-AITD-02351|Machine-Readable Data|机器可读的数据| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00169/978-1-78801-789-3)| |
-AITD-02352|Mae|平均绝对误差|MAE|[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00076/978-1-78801-789-3)| |
-AITD-02353|Mahalanobis Distances|马氏距离| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00311/978-1-78801-789-3)|统计|
-AITD-02354|Matrices|矩阵| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00037/978-1-78801-789-3)|数学|
-AITD-02355|Matthews Correlation Coefficient|马修斯相关系数|MCC|[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00016/978-1-78801-789-3)| |
-AITD-02356|Maximum Likelihood Methods|最大似然法| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00109/978-1-78801-789-3)|统计|
-AITD-02357|Maximum Likelihood Procedures|最大似然估计法| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00311/978-1-78801-789-3)|统计|
-AITD-02358|MCTS Method|蒙特卡洛树搜索方法| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00136/978-1-78801-789-3)| |
-AITD-02359|Mean-Squared Error|均方误差| |[[1]](https://www.nature.com/articles/s41557-021-00716-z)|统计、机器学习|
-AITD-02360|Mechanical Sympathy|机械同感，软硬件协同编程| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00109/978-1-78801-789-3)| |
-AITD-02361|Merging|合并| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00311/978-1-78801-789-3)| |
-AITD-02362|Message Passing Neural Networks|消息传递神经网络|MPNNS|[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00372/978-1-78801-789-3)| |
-AITD-02363|Microarray Data|微阵列数据| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00206/978-1-83916-023-3)| |
-AITD-02364|Mini Batch|小批次| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00076/978-1-78801-789-3)| |
-AITD-02365|Mining|挖掘| |[[1]](https://www.nature.com/articles/s41557-021-00716-z)| |
-AITD-02366|Mining Out|挖掘| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00037/978-1-78801-789-3)| |
-AITD-02367|Missing Values|缺失值| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00311/978-1-78801-789-3)|统计|
-AITD-02368|ML Algorithm|机器学习算法| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00016/978-1-78801-789-3)| |
-AITD-02369|ML Modelling|机器学习建模| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00206/978-1-83916-023-3)| |
-AITD-02370|ML Potentials|机器学习势能| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00076/978-1-78801-789-3)| |
-AITD-02371|ML-Driven|机器学习驱动的| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00136/978-1-78801-789-3)| |
-AITD-02372|ML-Driven Optimization|机器学习驱动的最优化| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00136/978-1-78801-789-3)| |
-AITD-02373|MLP Neural Model|多层感知机神经模型| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00227/978-1-78801-789-3)| |
-AITD-02374|Model Construction|模型构建| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00311/978-1-78801-789-3)| |
-AITD-02375|Model Evaluation|模型评估| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00311/978-1-78801-789-3)| |
-AITD-02376|Model Performance|模型性能| |[[1]](https://www.nature.com/articles/s41557-021-00716-z)| |
-AITD-02377|Model Statistics|模型统计| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00037/978-1-78801-789-3)| |
-AITD-02378|Model Training|模型训练| |[[1]](https://www.nature.com/articles/s41557-021-00716-z)|机器学习|
-AITD-02379|Model Validation|模型验证| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00016/978-1-78801-789-3)| |
-AITD-02380|Model-Based Iterative Reconstruction|基于模型的迭代重建|MBIR|[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00450/978-1-78801-789-3)| |
-AITD-02381|Model-Construction|模型构建| |[[1]](https://www.nature.com/articles/s41557-021-00716-z)| |
-AITD-02382|Modelling Scenario|建模场景| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00016/978-1-78801-789-3)| |
-AITD-02383|Molecular Graph Theory|分子图论| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00037/978-1-78801-789-3)| |
-AITD-02384|Molecular Modelling|分子建模| |[[1]](https://www.nature.com/articles/s41557-021-00716-z)| |
-AITD-02385|Monte Carlo Tree Search|蒙特卡洛树搜索|MCTS|[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00136/978-1-78801-789-3)[[2]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00169/978-1-78801-789-3)[[3]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00280/978-1-78801-789-3)|数学|
-AITD-02386|Moore’S Law|摩尔定律| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00512/978-1-78801-789-3)|计算机|
-AITD-02388|Multi-Agent Control System|多智能体控制系统| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00340/978-1-78801-789-3)| |
-AITD-02389|Multi-Core Desktop Computer|多核台式计算机| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00136/978-1-78801-789-3)|计算机|
-AITD-02390|Multi-Dimensional Big Data Analysis|多维度大数据分析| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00424/978-1-78801-789-3)| |
-AITD-02391|Multi-Layer Feed-Forward|多层前馈|MLFF|[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00076/978-1-78801-789-3)| |
-AITD-02392|Multi-Objective Genetic Algorithm|多目标遗传算法|MOGA|[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00311/978-1-78801-789-3)| |
-AITD-02393|Multi-Objective Optimization|多目标优化| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00227/978-1-78801-789-3)|机器学习|
-AITD-02394|Multi-Reaction Synthesis|多反应合成| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00136/978-1-78801-789-3)| |
-AITD-02395|Multilayer Perceptron|多层感知机| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00227/978-1-78801-789-3)| |
-AITD-02396|Multivariate Regression|多变量回归| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00037/978-1-78801-789-3)| |

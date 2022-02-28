@@ -19,13 +19,13 @@ AITD-00623|Fast Persistent Contrastive Divergence|快速持续性对比散度||[
 AITD-00624|Fault-Tolerant Asynchronous Training|容错异步训练||[1]||
 AITD-00625|Feasible|可行||[1]||
 AITD-00626|Feature|特征||[1]||
-AITD-00627|Feature Engineering|特征工程||[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00136/978-1-78801-789-3)||
-AITD-00628|Feature Extraction|特征抽取| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00037/978-1-78801-789-3)| |
+AITD-00627|Feature Engineering|特征工程||[1]||
+AITD-00628|Feature Extraction|特征抽取||[1]||
 AITD-00629|Feature Extractor|特征提取器||[1]||
 AITD-00630|Feature Function|特征函数||[1]||
 AITD-00631|Feature Map|特征图||[1]||
 AITD-00632|Feature Scaling Transform|特征尺度变换||[1]||
-AITD-00633|Feature Selection|特征选择||[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00037/978-1-78801-789-3)[[2]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00136/978-1-78801-789-3)[[3]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00206/978-1-83916-023-3)||
+AITD-00633|Feature Selection|特征选择||[1]||
 AITD-00634|Feature Space|特征空间||[1]||
 AITD-00635|Feature Vector|特征向量||[1]||
 AITD-00636|Featured Learning|特征学习||[1]||
@@ -33,7 +33,7 @@ AITD-00637|Feedback|反馈||[1]||
 AITD-00638|Feedforward|前馈||[1]||
 AITD-00639|Feedforward Classifier|前馈分类器||[1]||
 AITD-00640|Feedforward Network|前馈网络||[1]||
-AITD-00641|Feedforward Neural Network|前馈神经网络|FNN|[[1]](https://www.jiqizhixin.com/articles/2017-09-07-9)[[2]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00424/978-1-78801-789-3)[[3]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00227/978-1-78801-789-3)||
+AITD-00641|Feedforward Neural Network|前馈神经网络|FNN|[[1]](https://www.jiqizhixin.com/articles/2017-09-07-9)||
 AITD-00642|Few-Shot Learning|少试学习||[1]||
 AITD-00643|Fidelity|逼真度||[1]||
 AITD-00644|Field Programmable Gated Array|现场可编程门阵列||[1]||
@@ -84,25 +84,3 @@ AITD-00688|Functional|泛函||[1]||
 AITD-00689|Functional Derivative|泛函导数||[1]||
 AITD-00690|Functional Margin|函数间隔||[1]||
 AITD-00691|Functional Neuron|功能神经元||[1]||
-AITD-02234|Faber-Christensen-Huang-Lilienfeld|Faber-Christensen-Huang-Lilienfeld|FCHL|[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00076/978-1-78801-789-3)| 四个人提出的化学结构量子机器学习方法|
-AITD-02235|Facial Recognition|面部识别| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00001/978-1-78801-789-3)| |
-AITD-02236|FAIR Data Principles|FAIR数据原则| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00136/978-1-78801-789-3)| Findability可找寻 Accessibility可访问 Interoperability可交互 Reuse可再用|
-AITD-02237|False Negatives|假阴性|FNs|[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00016/978-1-78801-789-3)| |
-AITD-02238|False Positives|假阳性|FPs|[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00016/978-1-78801-789-3)| |
-AITD-02239|Fchl Representation|Fchl 表示| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00076/978-1-78801-789-3)| |
-AITD-02240|Feature Binarization|特征二值化| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00311/978-1-78801-789-3)| |
-AITD-02241|Feature Transform|特征变换| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00136/978-1-78801-789-3)| |
-AITD-02242|Feature Vectors|特征向量| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00372/978-1-78801-789-3)| |
-AITD-02243|Features|特征| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00109/978-1-78801-789-3)| |
-AITD-02244|Feed Back|反馈| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00037/978-1-78801-789-3)| |
-AITD-02245|Feed-Forward Neural Networks|前馈神经网络|FFNN|[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00227/978-1-78801-789-3)[[2]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00488/978-1-78801-789-3)[[3]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00340/978-1-78801-789-3)| |
-AITD-02246|Feedback Structure|反馈结构| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00109/978-1-78801-789-3)| |
-AITD-02247|Final Evaluation|最终评估| |[[1]](https://www.nature.com/articles/s41557-021-00716-z)| |
-AITD-02248|Findable, Accessible, Interoperable, Reusable|可查找、可访问、可互操作、可重用|FAIR|[[1]](https://www.nature.com/articles/s41557-021-00716-z)| |
-AITD-02249|First-Principles|第一性原理| |[[1]](https://www.nature.com/articles/s41557-021-00716-z)| |
-AITD-02250|Flow Rate|流速| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00136/978-1-78801-789-3)| |
-AITD-02251|Forward Cross-Validation|前向交叉验证| |[[1]](https://www.nature.com/articles/s41557-021-00716-z)| |
-AITD-02252|Forward Prediction|前向预测| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00136/978-1-78801-789-3)| |
-AITD-02253|Forward Reaction Prediction|前向反应预测| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00169/978-1-78801-789-3)| |
-AITD-02254|Fuzzy Logic|模糊逻辑|FL|[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00340/978-1-78801-789-3)| |
-AITD-02255|Fuzzy Neural Networks|模糊神经网络|FNN|[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00311/978-1-78801-789-3)| |

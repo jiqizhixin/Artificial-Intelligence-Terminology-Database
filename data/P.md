@@ -15,23 +15,23 @@ AITD-01408|Parameter Estimation|参数估计||[1]||
 AITD-01409|Parameter Server|参数服务器||[1]||
 AITD-01410|Parameter Sharing|参数共享||[1]||
 AITD-01411|Parameter Space|参数空间||[1]||
-AITD-01412|Parameter Tuning|调参||[[1]](https://www.jiqizhixin.com/articles/2018-01-03-3)[[2]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00227/978-1-78801-789-3)|机器学习|
+AITD-01412|Parameter Tuning|调参||[[1]](https://www.jiqizhixin.com/articles/2018-01-03-3)||
 AITD-01413|Parametric Case|有参情况||[1]||
 AITD-01414|Parametric Density Estimation|参数密度估计||[1]||
 AITD-01415|Parametric Model|参数化模型||[1]||
 AITD-01416|Parametric ReLU|参数化修正线性单元/参数化整流线性单元|PReLU|[1]||
-AITD-01417|Parse Tree|解析树| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00001/978-1-78801-789-3)| |
+AITD-01417|Parse Tree|解析树||[1]||
 AITD-01418|Part-Of-Speech Tagging|词性标注||[1]||
 AITD-01419|Partial Derivative|偏导数||[1]||
 AITD-01420|Partially Observable Markov Decision Processes|部分可观测马尔可夫决策过程|POMDP|[1]||
-AITD-01421|Particle Swarm Optimization|粒子群优化算法|PSO|[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00311/978-1-78801-789-3)| |
+AITD-01421|Particle Swarm Optimization|粒子群优化算法|PSO|[1]||
 AITD-01422|Partition|划分||[1]||
 AITD-01423|Partition Function|配分函数||[1]||
 AITD-01424|Path|路径||[1]||
 AITD-01425|Pattern|模式||[1]||
-AITD-01426|Pattern Recognition|模式识别|PR|[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00001/978-1-78801-789-3)[[2]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00488/978-1-78801-789-3)| |
+AITD-01426|Pattern Recognition|模式识别|PR|[1]||
 AITD-01427|Penalty Term|罚项||[1]||
-AITD-01428|Perceptron|感知机||[[1]](https://www.jiqizhixin.com/articles/2018-01-15-2)[[2]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00206/978-1-83916-023-3)|机器学习|
+AITD-01428|Perceptron|感知机||[[1]](https://www.jiqizhixin.com/articles/2018-01-15-2)||
 AITD-01429|Performance Measure|性能度量||[1]||
 AITD-01430|Periodic|周期的||[1]||
 AITD-01431|Permutation Invariant|置换不变性||[1]||
@@ -85,17 +85,17 @@ AITD-01478|Power Method|幂法||[1]||
 AITD-01479|PR Curve|P-R曲线||[1]||
 AITD-01480|Pre-Trained Initialization|预训练初始化||[1]||
 AITD-01481|Pre-Training|预训练||[1]||
-AITD-01482|Precision|查准率/准确率||[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00016/978-1-78801-789-3)|数学、HPC|
+AITD-01482|Precision|查准率/准确率||[1]||
 AITD-01483|Precision Matrix|精度矩阵||[1]||
 AITD-01484|Predictive Sparse Decomposition|预测稀疏分解||[1]||
 AITD-01485|Prepruning|预剪枝||[1]||
 AITD-01486|Pretrained Language Model|预训练语言模型||[1]||
 AITD-01487|Primal Problem|主问题||[1]||
 AITD-01488|Primary Visual Cortex|初级视觉皮层||[1]||
-AITD-01489|Principal Component Analysis|主成分分析|PCA|[[1]](https://www.jiqizhixin.com/articles/2017-12-03-4)[[2]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00109/978-1-78801-789-3)[[3]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00037/978-1-78801-789-3)[[4]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00206/978-1-83916-023-3)||
+AITD-01489|Principal Component Analysis|主成分分析|PCA|[[1]](https://www.jiqizhixin.com/articles/2017-12-03-4)||
 AITD-01490|Principle Of Multiple Explanations|多释原则||[1]||
 AITD-01491|Prior|先验||[1]||
-AITD-01492|Prior Knowledge|先验知识| |[[1]](https://www.nature.com/articles/s41557-021-00716-z)|统计|
+AITD-01492|Prior Knowledge|先验知识||[1]||
 AITD-01493|Prior Probability|先验概率||[1]||
 AITD-01494|Prior Probability Distribution|先验概率分布||[1]||
 AITD-01495|Prior Pseudo-Counts|伪计数||[1]||
@@ -112,7 +112,7 @@ AITD-01505|Probabilistic PCA|概率PCA||[1]||
 AITD-01506|Probabilistic Undirected Graphical Model|概率无向图模型||[1]||
 AITD-01507|Probability|概率||[1]||
 AITD-01508|Probability Density Function|概率密度函数|PDF|[1]||
-AITD-01509|Probability Distribution|概率分布||[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00195/978-1-83916-023-3)|统计|
+AITD-01509|Probability Distribution|概率分布||[1]||
 AITD-01510|Probability Mass Function|概率质量函数||[1]||
 AITD-01511|Probability Model Estimation|概率模型估计||[1]||
 AITD-01512|Probably Approximately Correct|概率近似正确|PAC|[1]||
@@ -128,8 +128,3 @@ AITD-01521|Proximal Gradient Descent|近端梯度下降|PGD|[1]||
 AITD-01522|Pruning|剪枝||[[1]](https://www.jiqizhixin.com/articles/2017-09-26)||
 AITD-01523|Pseudo-Label|伪标记||[1]||
 AITD-01524|Pseudolikelihood|伪似然||[1]||
-AITD-02426|Predicted Label|预测值| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00016/978-1-78801-789-3)|机器学习|
-AITD-02427|Prediction|预测| |[[1]](https://www.nature.com/articles/s41557-021-00716-z)|机器学习|
-AITD-02428|Prediction Accuracy|预测准确率| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00001/978-1-78801-789-3)|机器学习|
-AITD-02429|Predictor|预测器/决策函数| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00251/978-1-78801-789-3)|机器学习|
-AITD-02430|Protein Folding|蛋白折叠| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00109/978-1-78801-789-3)[[2]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00037/978-1-78801-789-3)|生物|

@@ -29,7 +29,7 @@ AITD-00528|Empirical Loss|经验损失||[1]||
 AITD-00529|Empirical Risk|经验风险||[1]||
 AITD-00530|Empirical Risk Minimization|经验风险最小化|ERM|[1]||
 AITD-00531|Encoder|编码器||[1]||
-AITD-00532|Encoder-Decoder|编码器-解码器（模型）| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00169/978-1-78801-789-3)[[2]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00136/978-1-78801-789-3)| |
+AITD-00532|Encoder-Decoder|编码器-解码器||[1]||
 AITD-00533|Encoding|编码||[1]||
 AITD-00534|End-To-End|端到端||[[1]](https://www.jiqizhixin.com/articles/2017-12-15)||
 AITD-00535|End-To-End Learning|端到端学习||[1]||
@@ -56,13 +56,13 @@ AITD-00555|Error Backpropagation Algorithm|误差反向传播算法||[1]||
 AITD-00556|Error Backpropagation|误差反向传播||[1]||
 AITD-00557|Error Bar|误差条||[1]||
 AITD-00558|Error Correcting Output Codes|纠错输出编码|ECOC|[1]||
-AITD-00559|Error Function|误差函数| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00076/978-1-78801-789-3)| |
+AITD-00559|Error Function|误差函数||[1]||
 AITD-00560|Error Metric|误差度量||[1]||
 AITD-00561|Error Rate|错误率||[1]||
 AITD-00562|Error-Ambiguity Decomposition|误差－分歧分解||[1]||
 AITD-00563|Estimation Error|估计误差||[1]||
 AITD-00564|Estimation Of Mathematical Expectation|数学期望估计||[1]||
-AITD-00565|Estimator|估计/估计量||[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00340/978-1-78801-789-3)||
+AITD-00565|Estimator|估计/估计量||[1]||
 AITD-00566|Euclidean Distance|欧氏距离||[1]||
 AITD-00567|Euclidean Norm|欧几里得范数||[1]||
 AITD-00568|Euclidean Space|欧氏空间||[1]||
@@ -107,22 +107,3 @@ AITD-00606|Exponentially Weighted Moving Average|指数加权移动平均||[1]||
 AITD-00607|Exposure Bias|曝光偏差||[1]||
 AITD-00608|External Memory|外部记忆||[1]||
 AITD-00609|Extreme Learning Machine|超限学习机|ELM|[[1]](https://www.jiqizhixin.com/articles/2016-09-30-3)||
-AITD-02215|Eigenfunction|特征函数| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00076/978-1-78801-789-3)| |
-AITD-02216|Electronegativity|电负性| |[[1]](https://www.nature.com/articles/s41557-021-00716-z)| |
-AITD-02217|Elman|埃尔曼| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00227/978-1-78801-789-3)| |
-AITD-02218|Empirical Models|经验模型| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00227/978-1-78801-789-3)| |
-AITD-02219|Energy Derivatives|能源衍生品| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00076/978-1-78801-789-3)| 在DP模型中：能量的导数|
-AITD-02220|Energy Potentials|能量潜力| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00076/978-1-78801-789-3)| |
-AITD-02221|Ensemble Methods|集成方法| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00037/978-1-78801-789-3)[[2]](https://www.nature.com/articles/s41557-021-00716-z)| |
-AITD-02222|Entity Normalisation|实体规范化| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00280/978-1-78801-789-3)| |
-AITD-02223|Ethical Considerations|道德考虑| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00109/978-1-78801-789-3)| |
-AITD-02224|Euclidean Distances|欧几里得距离| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00512/978-1-78801-789-3)| |
-AITD-02225|Evolutionary Algorithms|进化算法|EA|[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00206/978-1-83916-023-3)[[2]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00280/978-1-78801-789-3)| |
-AITD-02226|Evolutionary Method|进化方法| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00227/978-1-78801-789-3)| |
-AITD-02227|Exchange–Correlation|交换关联（的能量/泛函）| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00424/978-1-78801-789-3)| |
-AITD-02228|Excited-State Potentials|激发态能量| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00076/978-1-78801-789-3)| |
-AITD-02229|Expected Reduction In Distortion|符合预期的失真减少|ERD|[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00450/978-1-78801-789-3)| |
-AITD-02230|Experimental Validation Data|实验验证数据| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00227/978-1-78801-789-3)| |
-AITD-02231|Expert Systems|专家系统|ESS|[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00340/978-1-78801-789-3)| |
-AITD-02232|Extended-Connectivity Circular Fingerprint|扩展连接环形指纹|ECFP|[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00372/978-1-78801-789-3)| |
-AITD-02233|Extraction Techniques|提取技术| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00136/978-1-78801-789-3)| |
