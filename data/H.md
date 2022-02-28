@@ -46,7 +46,31 @@ AITD-00832|Hybrid Computing|混合计算||[1]||
 AITD-00833|Hyperbolic Tangent Function|双曲正切函数||[1]||
 AITD-00834|Hyperparameter|超参数||[[1]](https://www.jiqizhixin.com/articles/2017-08-18-5)[[2]](https://www.jiqizhixin.com/articles/2017-11-28)||
 AITD-00835|Hyperparameter Optimization|超参数优化||[1]||
-AITD-00836|Hyperplane|超平面||[1]||
+AITD-00836|Hyperplane|超平面| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00037/978-1-78801-789-3)|数学|
 AITD-00837|Hypothesis|假设||[1]||
 AITD-00838|Hypothesis Space|假设空间||[1]||
 AITD-00839|Hypothesis Test|假设检验||[1]||
+AITD-02277|Hamiltonian Matrix|哈密顿矩阵| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00076/978-1-78801-789-3)|物理|
+AITD-02278|Hamiltonian Operator|哈密顿算符| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00001/978-1-78801-789-3)|物理|
+AITD-02279|Heterogeneous Data|异构数据| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00398/978-1-78801-789-3)[[2]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00206/978-1-83916-023-3)| |
+AITD-02280|Hidden Layers|隐藏层| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00227/978-1-78801-789-3)| |
+AITD-02281|High Data Throughput|高数据吞吐量| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00001/978-1-78801-789-3)| |
+AITD-02282|High Throughput|高通量|HT|[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00450/978-1-78801-789-3)| |
+AITD-02283|High Throughput Screening|高通量筛选|HTS|[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00016/978-1-78801-789-3)| |
+AITD-02284|High Variance Models|高方差模型| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00311/978-1-78801-789-3)| |
+AITD-02285|High-Dimensional Data|高维数据| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00037/978-1-78801-789-3)| |
+AITD-02286|High-Dimensional NN|高维神经网络|HDNN|[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00488/978-1-78801-789-3)| |
+AITD-02287|High-Dimensional Objects|高维对象| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00450/978-1-78801-789-3)| |
+AITD-02288|High-Throughput|高通量| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00311/978-1-78801-789-3)| |
+AITD-02289|Higher-Dimensional Space|高维空间| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00076/978-1-78801-789-3)|数学|
+AITD-02290|Higher-Dimensional Spectral Space|高维光谱空间| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00450/978-1-78801-789-3)| |
+AITD-02291|Homogenization|同质化| |[[1]](https://www.nature.com/articles/s41557-021-00716-z)| |
+AITD-02292|Homomorphic Encryption|同态加密| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00136/978-1-78801-789-3)| |
+AITD-02293|Human Face Recognition|人脸识别| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00001/978-1-78801-789-3)|机器学习|
+AITD-02294|Human-Encoded|人工编码的| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00136/978-1-78801-789-3)| |
+AITD-02295|Hybrid Model|混合模型| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00227/978-1-78801-789-3)| |
+AITD-02296|Hybrid Technique|混合技术|HM|[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00227/978-1-78801-789-3)| |
+AITD-02297|Hybrid-Neural Model|混合神经模型| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00227/978-1-78801-789-3)| |
+AITD-02298|Hyperparameter Opimization|超参数优化| |[[1]](https://www.nature.com/articles/s41557-021-00716-z)| |
+AITD-02299|Hyperparameters|超参数| |[[1]](https://www.nature.com/articles/s41557-021-00716-z)[[2]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00076/978-1-78801-789-3)[[3]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00424/978-1-78801-789-3)|机器学习|
+AITD-02300|Hyperplanes Separate|超平面分离| |[[1]](https://pubs.rsc.org/en/content/chapter/bk9781788017893-00169/978-1-78801-789-3)| |
