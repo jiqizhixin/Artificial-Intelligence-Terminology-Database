@@ -4,7 +4,7 @@
 
 ![](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology/blob/master/assets/logo.png)
 
-本术语库目前拥有专业术语约 2094 个、专项领域篇 1 篇，主要为人工智能领域基础概念和术语。
+本术语库目前拥有专业术语约 2442 个、专项领域篇 2 篇，主要为人工智能领域基础概念和术语。
 
 本术语库前两版主要是将机器之心在编译技术文章和论文过程中所遇到的专业术语记录下来，希望有助于大家查阅和翻译，同时也希望大家能积极指出我们编译的不当之处，共同推进知识高效、广泛地传播。
 
@@ -31,8 +31,10 @@
 | **U1** | -[**Q**](https://github.com/SyncedAI00/Artificial-Intelligence-Terminology/blob/master/data/Q.md)- | -[**W**](https://github.com/SyncedAI00/Artificial-Intelligence-Terminology/blob/master/data/W.md)- | -[**E**](https://github.com/SyncedAI00/Artificial-Intelligence-Terminology/blob/master/data/E.md)- | -[**R**](https://github.com/SyncedAI00/Artificial-Intelligence-Terminology/blob/master/data/R.md)- | -[**T**](https://github.com/SyncedAI00/Artificial-Intelligence-Terminology/blob/master/data/T.md)- | -[**Y**](https://github.com/SyncedAI00/Artificial-Intelligence-Terminology/blob/master/data/Y.md)- | -[**U**](https://github.com/SyncedAI00/Artificial-Intelligence-Terminology/blob/master/data/U.md)- | -[**I**](https://github.com/SyncedAI00/Artificial-Intelligence-Terminology/blob/master/data/I.md)- | -[**O**](https://github.com/SyncedAI00/Artificial-Intelligence-Terminology/blob/master/data/O.md)- | -[**P**](https://github.com/SyncedAI00/Artificial-Intelligence-Terminology/blob/master/data/P.md)- |
 | **U2** | -[**A**](https://github.com/SyncedAI00/Artificial-Intelligence-Terminology/blob/master/data/A.md)- | -[**S**](https://github.com/SyncedAI00/Artificial-Intelligence-Terminology/blob/master/data/S.md)- | -[**D**](https://github.com/SyncedAI00/Artificial-Intelligence-Terminology/blob/master/data/D.md)- | -[**F**](https://github.com/SyncedAI00/Artificial-Intelligence-Terminology/blob/master/data/F.md)- | -[**G**](https://github.com/SyncedAI00/Artificial-Intelligence-Terminology/blob/master/data/G.md)- | -[**H**](https://github.com/SyncedAI00/Artificial-Intelligence-Terminology/blob/master/data/H.md)- | -[**J**](https://github.com/SyncedAI00/Artificial-Intelligence-Terminology/blob/master/data/J.md)- | -[**K**](https://github.com/SyncedAI00/Artificial-Intelligence-Terminology/blob/master/data/K.md)- | -[**L**](https://github.com/SyncedAI00/Artificial-Intelligence-Terminology/blob/master/data/L.md)- |                                                              |
 | **U3** |                                                              | -[**Z**](https://github.com/SyncedAI00/Artificial-Intelligence-Terminology/blob/master/data/Z.md)- | -[**X**](https://github.com/SyncedAI00/Artificial-Intelligence-Terminology/blob/master/data/X.md)- | -[**C**](https://github.com/SyncedAI00/Artificial-Intelligence-Terminology/blob/master/data/C.md)- | -[**V**](https://github.com/SyncedAI00/Artificial-Intelligence-Terminology/blob/master/data/V.md)- | -[**B**](https://github.com/SyncedAI00/Artificial-Intelligence-Terminology/blob/master/data/B.md)- | -[**N**](https://github.com/SyncedAI00/Artificial-Intelligence-Terminology/blob/master/data/N.md)- | -[**M**](https://github.com/SyncedAI00/Artificial-Intelligence-Terminology/blob/master/data/M.md)- |                                                              |                                                              |
+
 2. 专项领域篇（仅收录对应领域术语）
    1. [机器学习（Machine Learning）篇](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology/blob/master/section/Machine%20Learning.md)
+   2. [AI for Science 篇](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology/blob/master/section/AI%20for%20Science.md)
 
 # #
 
@@ -65,7 +67,7 @@
 
 3. 歧义术语的编译标准
 
-还有很多术语其实是有歧义的，而对于这一类术语，机器之心的编译标准会根据语义进行确定，因此也会有一些误差。例如 bias 在描述神经网络层级单元时可以译为偏置项，而在描述训练误差和与叉验证误差间的关系或学习曲线时，bias 可以译为偏差。这样的例子还有很多，比如 Stationary 在马尔可夫模型中可译为稳态分布（Stationary Distribution），在最优化问题中可译为驻点（Stationary Point），而在涉及博弈论或对抗性训练时，其又可能表达为静态。
+还有很多术语其实是有歧义的，而对于这一类术语，机器之心的编译标准会根据语义进行确定，因此也会有一些误差。例如 bias 在描述神经网络层级单元时可以译为偏置项，而在描述训练误差和交叉验证误差间的关系或学习曲线时，bias 可以译为偏差。这样的例子还有很多，比如 Stationary 在马尔可夫模型中可译为稳态分布（Stationary Distribution），在最优化问题中可译为驻点（Stationary Point），而在涉及博弈论或对抗性训练时，其又可能表达为静态。
 
 以上是机器之心大概编译术语的标准，虽然我们在常用术语的编译上错误率相对较低，但在非常见术语和歧义术语上仍然会出现一些错误。尤其是在非常见术语的编译上，没有特定的背景知识很容易在编译上出现误差。因此我们希望能与读者共同加强术语的编译质量。
 
@@ -75,37 +77,45 @@
 
 1. 领域专家参与
 
-专项领域专家的参与确保我们搜集到的术语具有专业性。例如在机器学习（Machine Learning）篇中，我们在周志华教授、李航博士、邱锡鹏教授、李沐博士、Aston Zhang 博士等该领域权威专家及经典教科书作者的指导下，不仅完成了对该领域术语收录的覆盖度、术语中文翻译用法的准确性、专业性及公信力的提升，同时也完成了为社区构建一套具有公信力的领域术语统一中文翻译用法参考资料的工作。
+专项领域专家的参与确保我们收集到的术语具有专业性。例如在机器学习（Machine Learning）篇中，我们在周志华教授、李航博士、邱锡鹏教授、李沐博士、Aston Zhang 博士等该领域权威专家及经典教科书作者的指导下，不仅完成了对该领域术语收录的覆盖度、术语中文翻译用法的准确性、专业性及公信力的提升，同时也完成了为社区构建一套具有公信力的领域术语统一中文翻译用法参考资料的工作。
 
 2. 基于权威教科书、论文等具有公信力的资料源提取术语
 
-机器之心将搜集自权威教科书、论文等具有公信力的资料员中的术语表进行校验汇总，并从中筛选出一些具有争议、没有翻译等情况的术语给到领域专家进行集中讨论以确认翻译、统一翻译。在与专家讨论的过程中，不同的专家对同一个词的翻译也会有分歧。在这种情况下，专家们会从自身经验、理解出发，帮助其余专家理解自己这样翻译的一个背景知识。经过专家们不断的讨论，对于一个词的翻译最终会接近或达到一个共识。
+机器之心将搜集自权威教科书、论文等具有公信力的资料源中的术语表进行校验汇总，并从中筛选出一些具有争议、没有翻译等情况的术语给到领域专家进行集中讨论以确认翻译、统一翻译。在与专家讨论的过程中，不同的专家对同一个词的翻译也会有分歧。在这种情况下，专家们会从自身经验、理解出发，帮助其余专家理解自己这样翻译的一个背景知识。经过专家们不断的讨论，对于一个词的翻译最终会接近或达到一个共识。
 
-在此过程中，我们也记录了一些有意思的结果。例如 “Robust” 经常会被翻译为“鲁棒性”，专家们认为这个翻译缺少了中文的美感。此外，在控制论中有将 “Robust” 翻译成“强健性的，在经过专家讨论之后，我们将“稳健性”作为“Robust”的推荐翻译；“Dropout”一直没有较好的翻译，几位专家根据 Dropout 原文中 “temporarily removing” 的表述，一致认为“暂退法”是比较较为合适的翻译；“Zero/Few/One-shot Learning”一般翻译为“零/少/单样本学习”，但专家们认为“样本”不严谨，因为它并不是真的“零/少/单”样本，而是在建立一个映射之后，再利用少量样本进行迁移。翻译成样本的话，很容易跟学习理论中真正的“小样本学习”混淆了。尤其是“shot”本身并没有“样本”的含义，而是“快照”的含义更接近，在确定中文翻译时，联想到 “have a shot” 的意思是“试一试”，于是专家们倾向翻译为“零/少/单试学习”。
+在此过程中，我们也记录了一些有意思的结果。例如 “Robust” 经常会被翻译为“鲁棒性”，专家们认为这个翻译缺少了中文的美感。此外，在控制论中有将 “Robust” 翻译成“强健性的，在经过专家讨论之后，我们将“稳健性”作为“Robust”的推荐翻译；“Dropout”一直没有较好的翻译，几位专家根据 Dropout 原文中 “temporarily removing” 的表述，一致认为“暂退法”是较为合适的翻译；“Zero/Few/One-shot Learning”一般翻译为“零/少/单样本学习”，但专家们认为“样本”不严谨，因为它并不是真的“零/少/单”样本，而是在建立一个映射之后，再利用少量样本进行迁移。翻译成样本的话，很容易跟学习理论中真正的“小样本学习”混淆了。尤其是“shot”本身并没有“样本”的含义，而是“快照”的含义更接近，在确定中文翻译时，联想到 “have a shot” 的意思是“试一试”，于是专家们倾向翻译为“零/少/单试学习”。
 
-## 贡献
+#### 特别说明
+
+类似 Accuracy、Recall 等常用的术语在不同领域中都会有使用，因此会有同一个术语出现在不同的专项领域篇中的情况。
+
+## 参与贡献
 
 在使用术语表的过程中若发现了存在的错误、或是想要扩展术语库的内容、讨论特定术语的翻译等等非常欢迎大家提 Issue 与我们以及各位读者进行讨论。同时也非常欢迎读者们进行 Fork、提 Pull Request，共同加强术语的编译质量以及扩充术语库的规模。
 
 读者的反馈意见和更新建议将贯穿整个阶段，我们也将在项目致谢页中展示对该项目起积极作用的读者。我们希望术语的更新更具准确度和置信度，所以我们希望读者能附上该术语的来源地址与扩展地址。这样，我们能更客观地更新术语，并附上可信的来源与扩展。
 
-## 致谢
+## 贡献者列表及致谢
 
 衷心感谢以下人员参与了包含但不限于术语提供、校对、翻译讨论等工作，为该项目扩展了专项领域术语收录的覆盖度、提升了术语中文翻译用法的准确性、专业性及公信力，感谢老师们的辛勤贡献。
 
 排名将以 A~Z 进行排序：
 
-1. Aston Zhang 博士，《动手学深度学习》作者
+**机器学习（Machine Learning）篇特别致谢**
+
+1. [Aston Zhang 博士](https://github.com/astonzhang)，《动手学深度学习》作者
 2. 李航博士，《统计学习方法》作者
-3. 李沐博士，《动手学深度学习》作者
-4. 邱锡鹏教授，《神经网络与深度学习》作者
+3. [李沐博士](https://github.com/mli)，《动手学深度学习》作者
+4. [邱锡鹏教授](https://github.com/xpqiu)，《神经网络与深度学习》作者
 5. 周志华教授，《机器学习》作者
 
-除目前已包含的机器学习（Machine Learning）篇，本项目还将进一步制作更多专项领域篇。对我们项目感兴趣并愿意一起支持这个项目的领域专家可以通过 lab@jiqizhixin.com 联系我们。
+**AI for Science 篇特别致谢**
 
-## 贡献者列表
+1. [张铎](https://github.com/iprozd)，DP Technology，DeepModeling 开源社区成员
+2. [蔡淳](https://github.com/caic99) ，DP Technology，DeepModeling 开源社区成员  
+3. [董昊森](https://github.com/Asuna981002)，DP Technology，DeepModeling 开源社区成员 
 
-衷心感谢以下人员参与了该项目的贡献：
+**基础工作由机器之心多位项目组成员完成**
 
 1. [胡龙正](https://github.com/VXenomac)（机器之心 Synced）
 2. [金丹妮](https://github.com/jindanni)（机器之心 Synced）
@@ -114,24 +124,16 @@
 5. [之乎 Chain Zhang](https://github.com/chainn)（机器之心 Synced）
 6. [张赵宇](https://github.com/xavier-zy)（机器之心 Synced）
 
-## 加入我们
-![](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology/blob/master/assets/join.png)
-我们邀请更多感兴趣一起参与「AITD」项目的小伙伴通过加入「机器之心分析师网络」加入到「AITD」项目工作中来。
-
-在过去的五年里数百位兼职分析师们利用自己的工作、学习之余的闲暇时间，与机器之心的全职分析师们共同构建 AI 知识库、维护开源项目、撰写技术分析、开展专业调研、联合发布报告等等。参与机器之心全球开放项目的分析师大部分来自于内一流的研究机构及一流人工智能企业，其中包括卡耐基梅隆大学，滑铁卢大学，多伦多大学，加州大学洛杉矶分校，清华大学等等。
-
-加入机器之心分析师网络，在参与机器之心发起的人工智能及相关技术领域的「开放知识库」项目之外，还将有机会受邀作为特约分析师 
-
-* 现场参与国内外学术、学术及产业盛会，现场观察。
-* 参与热点技术解读、指标分析、性能评测等专业性技术分析项目。
-* 参与热点事件解读、产业前景分析等专业性产业分析项目。
-
-查看[项目链接](https://jiqizhixin.mikecrm.com/1h5xivk)，申请加入「机器之心分析师网络」。
-
+除目前已包含的机器学习（Machine Learning）、AI for Science 篇，本项目还将进一步制作更多专项领域篇。对我们项目感兴趣并愿意一起支持这个项目的领域专家可以通过 lab@jiqizhixin.com 联系我们。
 
 ## 版本更新
 
-## Version 3.0，2020-08-03
+## Version 3.1，2022-02-16
+
+* 3.1 版术语库发布，包含了 2442 个术语
+* 增加了第二个领域专题 AI for Science 篇，包含了个 491 个术语
+
+## Version 3.0，2021-08-03
 
 - 第三版术语库发布，包含了 2094 个术语
 - 增加了领域专题 Section，第一个 Section 为 机器学习（Machine Learning）篇，包含了 726 个术语
@@ -143,6 +145,16 @@
 ## Version 1.0，2017-07-10
 
 - 第一版术语库发布，包含 500 个术语
+
+## 加入我们
+
+![](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology/blob/master/assets/join.png)
+
+我们邀请更多感兴趣一起参与「AITD」项目的小伙伴通过加入「机器之心分析师网络」加入到「AITD」项目工作中来。
+
+![](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology/blob/master/assets/SOTA.png)
+
+**扫码关注「机器之心SOTA模型」服务号，参与「AITD」项目。**
 
 ## 许可证
 
